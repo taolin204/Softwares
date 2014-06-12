@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.apache.tools.ant.module/3">
+    <module_version install_time="1323291734306" last="true" origin="installer" specification_version="3.49.1.2">
+        <file crc="3929294734" name="ant/etc/ant-bootstrap.jar"/>
+        <file crc="1945700741" name="ant/lib/ant-antlr.jar"/>
+        <file crc="2190097129" name="ant/lib/ant-apache-bcel.jar"/>
+        <file crc="3929618580" name="ant/lib/ant-apache-bsf.jar"/>
+        <file crc="2078415883" name="ant/lib/ant-apache-log4j.jar"/>
+        <file crc="1026097690" name="ant/lib/ant-apache-oro.jar"/>
+        <file crc="4128975550" name="ant/lib/ant-apache-regexp.jar"/>
+        <file crc="1842067717" name="ant/lib/ant-apache-resolver.jar"/>
+        <file crc="640028046" name="ant/lib/ant-apache-xalan2.jar"/>
+        <file crc="3976229663" name="ant/lib/ant-commons-logging.jar"/>
+        <file crc="1746710450" name="ant/lib/ant-commons-net.jar"/>
+        <file crc="2996112193" name="ant/lib/ant-jai.jar"/>
+        <file crc="76515585" name="ant/lib/ant-javamail.jar"/>
+        <file crc="3801733099" name="ant/lib/ant-jdepend.jar"/>
+        <file crc="2701219376" name="ant/lib/ant-jmf.jar"/>
+        <file crc="1490088275" name="ant/lib/ant-jsch.jar"/>
+        <file crc="1468465386" name="ant/lib/ant-junit.jar"/>
+        <file crc="2786982403" name="ant/lib/ant-junit4.jar"/>
+        <file crc="3895080578" name="ant/lib/ant-launcher.jar"/>
+        <file crc="2839025389" name="ant/lib/ant-netrexx.jar"/>
+        <file crc="4267267655" name="ant/lib/ant-swing.jar"/>
+        <file crc="3535825282" name="ant/lib/ant-testutil.jar"/>
+        <file crc="2547475914" name="ant/lib/ant.jar"/>
+        <file crc="3536861719" name="ant/nblib/bridge.jar"/>
+        <file crc="1580322352" name="ant/nblib/locale/bridge_ja.jar"/>
+        <file crc="4207310634" name="ant/nblib/locale/bridge_pt_BR.jar"/>
+        <file crc="3642456927" name="ant/nblib/locale/bridge_ru.jar"/>
+        <file crc="2225119409" name="ant/nblib/locale/bridge_zh_CN.jar"/>
+        <file crc="953143122" name="config/Modules/org-apache-tools-ant-module.xml"/>
+        <file crc="2996730374" name="modules/locale/org-apache-tools-ant-module_ja.jar"/>
+        <file crc="785832308" name="modules/locale/org-apache-tools-ant-module_pt_BR.jar"/>
+        <file crc="531381266" name="modules/locale/org-apache-tools-ant-module_ru.jar"/>
+        <file crc="3927792758" name="modules/locale/org-apache-tools-ant-module_zh_CN.jar"/>
+        <file crc="508353483" name="modules/org-apache-tools-ant-module.jar"/>
+    </module_version>
+</module>

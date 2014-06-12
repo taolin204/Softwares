@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.websvc.restlib/0">
+    <module_version install_time="1323291197991" last="true" origin="installer" specification_version="1.14.1">
+        <file crc="557896012" name="config/Modules/org-netbeans-modules-websvc-restlib.xml"/>
+        <file crc="3710408060" name="modules/ext/rest/asm-3.1.jar"/>
+        <file crc="2006493501" name="modules/ext/rest/jackson-core-asl-1.7.1.jar"/>
+        <file crc="540784487" name="modules/ext/rest/jackson-jaxrs-1.7.1.jar"/>
+        <file crc="4253941243" name="modules/ext/rest/jackson-mapper-asl-1.7.1.jar"/>
+        <file crc="1880537564" name="modules/ext/rest/jackson-xc-1.7.1.jar"/>
+        <file crc="2162926453" name="modules/ext/rest/jersey-apache-client-1.8.jar"/>
+        <file crc="821706752" name="modules/ext/rest/jersey-atom-abdera-1.8.jar"/>
+        <file crc="2605165900" name="modules/ext/rest/jersey-client-1.8.jar"/>
+        <file crc="36063332" name="modules/ext/rest/jersey-core-1.8.jar"/>
+        <file crc="2005813853" name="modules/ext/rest/jersey-guice-1.8.jar"/>
+        <file crc="2022521210" name="modules/ext/rest/jersey-json-1.8.jar"/>
+        <file crc="1444782888" name="modules/ext/rest/jersey-multipart-1.8.jar"/>
+        <file crc="3351207944" name="modules/ext/rest/jersey-server-1.8.jar"/>
+        <file crc="3936097693" name="modules/ext/rest/jersey-simple-server-1.8.jar"/>
+        <file crc="2077569461" name="modules/ext/rest/jersey-spring-1.8.jar"/>
+        <file crc="3082127727" name="modules/ext/rest/jettison-1.1.jar"/>
+        <file crc="3673098891" name="modules/ext/rest/jsr311-api-1.1.1.jar"/>
+        <file crc="2425294004" name="modules/ext/rest/oauth-client-1.8.jar"/>
+        <file crc="3107825815" name="modules/ext/rest/oauth-server-1.8.jar"/>
+        <file crc="1524250864" name="modules/ext/rest/oauth-signature-1.8.jar"/>
+        <file crc="2439776748" name="modules/locale/org-netbeans-modules-websvc-restlib_ja.jar"/>
+        <file crc="4192751623" name="modules/locale/org-netbeans-modules-websvc-restlib_pt_BR.jar"/>
+        <file crc="2349957414" name="modules/locale/org-netbeans-modules-websvc-restlib_ru.jar"/>
+        <file crc="2560567930" name="modules/locale/org-netbeans-modules-websvc-restlib_zh_CN.jar"/>
+        <file crc="3101822203" name="modules/org-netbeans-modules-websvc-restlib.jar"/>
+    </module_version>
+</module>

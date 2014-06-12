@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.editor.plain/2">
+    <module_version install_time="1323291440430" last="true" origin="installer" specification_version="1.20.1">
+        <file crc="977811071" name="config/Modules/org-netbeans-modules-editor-plain.xml"/>
+        <file crc="525083500" name="modules/locale/org-netbeans-modules-editor-plain_ja.jar"/>
+        <file crc="2064968283" name="modules/locale/org-netbeans-modules-editor-plain_pt_BR.jar"/>
+        <file crc="4051159413" name="modules/locale/org-netbeans-modules-editor-plain_ru.jar"/>
+        <file crc="876439800" name="modules/locale/org-netbeans-modules-editor-plain_zh_CN.jar"/>
+        <file crc="2466032342" name="modules/org-netbeans-modules-editor-plain.jar"/>
+    </module_version>
+</module>

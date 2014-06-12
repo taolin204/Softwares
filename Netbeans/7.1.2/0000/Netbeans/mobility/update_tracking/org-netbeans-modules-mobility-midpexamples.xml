@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.mobility.midpexamples">
+    <module_version install_time="1323291823534" last="true" origin="installer" specification_version="1.15.1">
+        <file crc="2051320051" name="config/Modules/org-netbeans-modules-mobility-midpexamples.xml"/>
+        <file crc="538271476" name="modules/locale/org-netbeans-modules-mobility-midpexamples_ja.jar"/>
+        <file crc="1304168930" name="modules/locale/org-netbeans-modules-mobility-midpexamples_pt_BR.jar"/>
+        <file crc="2596074807" name="modules/locale/org-netbeans-modules-mobility-midpexamples_ru.jar"/>
+        <file crc="3191155996" name="modules/locale/org-netbeans-modules-mobility-midpexamples_zh_CN.jar"/>
+        <file crc="3875791396" name="modules/org-netbeans-modules-mobility-midpexamples.jar"/>
+    </module_version>
+</module>

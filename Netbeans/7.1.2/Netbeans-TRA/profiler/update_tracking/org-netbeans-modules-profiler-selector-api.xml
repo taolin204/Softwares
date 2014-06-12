@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.profiler.selector.api/1">
+    <module_version install_time="1323292045686" last="true" origin="installer" specification_version="1.18.1">
+        <file crc="386975286" name="config/Modules/org-netbeans-modules-profiler-selector-api.xml"/>
+        <file crc="3045603629" name="modules/locale/org-netbeans-modules-profiler-selector-api_ja.jar"/>
+        <file crc="1686533413" name="modules/locale/org-netbeans-modules-profiler-selector-api_pt_BR.jar"/>
+        <file crc="595134400" name="modules/locale/org-netbeans-modules-profiler-selector-api_ru.jar"/>
+        <file crc="2700314027" name="modules/locale/org-netbeans-modules-profiler-selector-api_zh_CN.jar"/>
+        <file crc="4191820017" name="modules/org-netbeans-modules-profiler-selector-api.jar"/>
+    </module_version>
+</module>

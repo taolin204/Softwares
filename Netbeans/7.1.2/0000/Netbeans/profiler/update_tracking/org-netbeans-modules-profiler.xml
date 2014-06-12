@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.profiler/2">
+    <module_version install_time="1323292080884" last="true" origin="installer" specification_version="2.1.1">
+        <file crc="2205319106" name="config/Modules/org-netbeans-modules-profiler.xml"/>
+        <file crc="4124242591" name="modules/docs/org-netbeans-modules-profiler.jar"/>
+        <file crc="1911152669" name="modules/locale/org-netbeans-modules-profiler_ja.jar"/>
+        <file crc="176497009" name="modules/locale/org-netbeans-modules-profiler_pt_BR.jar"/>
+        <file crc="3927921148" name="modules/locale/org-netbeans-modules-profiler_ru.jar"/>
+        <file crc="3921080226" name="modules/locale/org-netbeans-modules-profiler_zh_CN.jar"/>
+        <file crc="3553201243" name="modules/org-netbeans-modules-profiler.jar"/>
+    </module_version>
+</module>

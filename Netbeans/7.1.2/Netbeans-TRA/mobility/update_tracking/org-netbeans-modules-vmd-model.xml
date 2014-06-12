@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.vmd.model">
+    <module_version install_time="1323291891835" last="true" origin="installer" specification_version="1.13.1">
+        <file crc="1383821602" name="config/Modules/org-netbeans-modules-vmd-model.xml"/>
+        <file crc="294271031" name="modules/locale/org-netbeans-modules-vmd-model_ja.jar"/>
+        <file crc="2215346223" name="modules/locale/org-netbeans-modules-vmd-model_pt_BR.jar"/>
+        <file crc="3689524687" name="modules/locale/org-netbeans-modules-vmd-model_ru.jar"/>
+        <file crc="2083795805" name="modules/locale/org-netbeans-modules-vmd-model_zh_CN.jar"/>
+        <file crc="1467718281" name="modules/org-netbeans-modules-vmd-model.jar"/>
+    </module_version>
+</module>

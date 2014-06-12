@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.properties.based.dataobjects/1">
+    <module_version install_time="1323291803386" last="true" origin="installer" specification_version="1.9.1">
+        <file crc="2035425342" name="config/Modules/org-netbeans-modules-properties-based-dataobjects.xml"/>
+        <file crc="1025915202" name="modules/locale/org-netbeans-modules-properties-based-dataobjects_ja.jar"/>
+        <file crc="799642891" name="modules/locale/org-netbeans-modules-properties-based-dataobjects_pt_BR.jar"/>
+        <file crc="316646714" name="modules/locale/org-netbeans-modules-properties-based-dataobjects_ru.jar"/>
+        <file crc="2697472257" name="modules/locale/org-netbeans-modules-properties-based-dataobjects_zh_CN.jar"/>
+        <file crc="2582891270" name="modules/org-netbeans-modules-properties-based-dataobjects.jar"/>
+    </module_version>
+</module>

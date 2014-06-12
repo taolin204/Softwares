@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.vmd.palette">
+    <module_version install_time="1323291897497" last="true" origin="installer" specification_version="1.14.1">
+        <file crc="3118105842" name="config/Modules/org-netbeans-modules-vmd-palette.xml"/>
+        <file crc="352691426" name="modules/locale/org-netbeans-modules-vmd-palette_ja.jar"/>
+        <file crc="134414405" name="modules/locale/org-netbeans-modules-vmd-palette_pt_BR.jar"/>
+        <file crc="1048342293" name="modules/locale/org-netbeans-modules-vmd-palette_ru.jar"/>
+        <file crc="2686497811" name="modules/locale/org-netbeans-modules-vmd-palette_zh_CN.jar"/>
+        <file crc="2729067908" name="modules/org-netbeans-modules-vmd-palette.jar"/>
+    </module_version>
+</module>

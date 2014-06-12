@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.profiler.stp">
+    <module_version install_time="1323292083714" last="true" origin="installer" specification_version="1.1.1">
+        <file crc="1823939549" name="config/Modules/org-netbeans-modules-profiler-stp.xml"/>
+        <file crc="108816167" name="modules/locale/org-netbeans-modules-profiler-stp_ja.jar"/>
+        <file crc="3153259445" name="modules/locale/org-netbeans-modules-profiler-stp_pt_BR.jar"/>
+        <file crc="2811112518" name="modules/locale/org-netbeans-modules-profiler-stp_ru.jar"/>
+        <file crc="976345552" name="modules/locale/org-netbeans-modules-profiler-stp_zh_CN.jar"/>
+        <file crc="1579469442" name="modules/org-netbeans-modules-profiler-stp.jar"/>
+    </module_version>
+</module>

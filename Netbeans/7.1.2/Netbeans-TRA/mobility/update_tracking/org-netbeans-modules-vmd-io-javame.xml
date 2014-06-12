@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.vmd.io.javame">
+    <module_version install_time="1323291820675" last="true" origin="installer" specification_version="1.13.1">
+        <file crc="3552059147" name="config/Modules/org-netbeans-modules-vmd-io-javame.xml"/>
+        <file crc="4120073577" name="modules/locale/org-netbeans-modules-vmd-io-javame_ja.jar"/>
+        <file crc="2509479092" name="modules/locale/org-netbeans-modules-vmd-io-javame_pt_BR.jar"/>
+        <file crc="2667534249" name="modules/locale/org-netbeans-modules-vmd-io-javame_ru.jar"/>
+        <file crc="2252506654" name="modules/locale/org-netbeans-modules-vmd-io-javame_zh_CN.jar"/>
+        <file crc="1553512701" name="modules/org-netbeans-modules-vmd-io-javame.jar"/>
+    </module_version>
+</module>

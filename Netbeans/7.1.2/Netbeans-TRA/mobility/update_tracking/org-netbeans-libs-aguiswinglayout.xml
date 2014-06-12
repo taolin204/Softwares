@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.libs.aguiswinglayout">
+    <module_version install_time="1323291904934" last="true" origin="installer" specification_version="1.13.1">
+        <file crc="3136498775" name="config/Modules/org-netbeans-libs-aguiswinglayout.xml"/>
+        <file crc="3222051097" name="modules/ext/cdc-agui-swing-layout.jar"/>
+        <file crc="1295453342" name="modules/locale/org-netbeans-libs-aguiswinglayout_ja.jar"/>
+        <file crc="3347741706" name="modules/locale/org-netbeans-libs-aguiswinglayout_pt_BR.jar"/>
+        <file crc="3268974656" name="modules/locale/org-netbeans-libs-aguiswinglayout_ru.jar"/>
+        <file crc="1633801392" name="modules/locale/org-netbeans-libs-aguiswinglayout_zh_CN.jar"/>
+        <file crc="1449363047" name="modules/org-netbeans-libs-aguiswinglayout.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.maven.indexer/2">
+    <module_version install_time="1323291730775" last="true" origin="installer" specification_version="2.4.1">
+        <file crc="3741439804" name="config/Modules/org-netbeans-modules-maven-indexer.xml"/>
+        <file crc="2719399517" name="modules/ext/maven/indexer-artifact-4.1.2.jar"/>
+        <file crc="987207584" name="modules/ext/maven/indexer-core-4.1.2.jar"/>
+        <file crc="4199260432" name="modules/locale/org-netbeans-modules-maven-indexer_ja.jar"/>
+        <file crc="3508623874" name="modules/locale/org-netbeans-modules-maven-indexer_pt_BR.jar"/>
+        <file crc="2113316761" name="modules/locale/org-netbeans-modules-maven-indexer_ru.jar"/>
+        <file crc="1774698370" name="modules/locale/org-netbeans-modules-maven-indexer_zh_CN.jar"/>
+        <file crc="2201336237" name="modules/org-netbeans-modules-maven-indexer.jar"/>
+    </module_version>
+</module>

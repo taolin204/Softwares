@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.php.symfony">
+    <module_version install_time="1323291936879" last="true" origin="installer" specification_version="1.16.1">
+        <file crc="104756244" name="config/Modules/org-netbeans-modules-php-symfony.xml"/>
+        <file crc="4134545502" name="modules/locale/org-netbeans-modules-php-symfony_ja.jar"/>
+        <file crc="3540478807" name="modules/locale/org-netbeans-modules-php-symfony_pt_BR.jar"/>
+        <file crc="2938415246" name="modules/locale/org-netbeans-modules-php-symfony_ru.jar"/>
+        <file crc="3260067390" name="modules/locale/org-netbeans-modules-php-symfony_zh_CN.jar"/>
+        <file crc="2764003551" name="modules/org-netbeans-modules-php-symfony.jar"/>
+    </module_version>
+</module>

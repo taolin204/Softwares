@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.web.jsf.icefaces">
+    <module_version install_time="1323291202317" last="true" origin="installer" specification_version="1.1.1">
+        <file crc="3418345207" name="config/Modules/org-netbeans-modules-web-jsf-icefaces.xml"/>
+        <file crc="1042020937" name="modules/locale/org-netbeans-modules-web-jsf-icefaces_ja.jar"/>
+        <file crc="2104054399" name="modules/locale/org-netbeans-modules-web-jsf-icefaces_pt_BR.jar"/>
+        <file crc="1755651797" name="modules/locale/org-netbeans-modules-web-jsf-icefaces_ru.jar"/>
+        <file crc="364265821" name="modules/locale/org-netbeans-modules-web-jsf-icefaces_zh_CN.jar"/>
+        <file crc="606233890" name="modules/org-netbeans-modules-web-jsf-icefaces.jar"/>
+    </module_version>
+</module>

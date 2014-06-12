@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.mobility.deployment.sonyericsson">
+    <module_version install_time="1323291854039" last="true" origin="installer" specification_version="1.14.1">
+        <file crc="2561976602" name="config/Modules/org-netbeans-modules-mobility-deployment-sonyericsson.xml"/>
+        <file crc="3856535797" name="modules/locale/org-netbeans-modules-mobility-deployment-sonyericsson_ja.jar"/>
+        <file crc="466032938" name="modules/locale/org-netbeans-modules-mobility-deployment-sonyericsson_pt_BR.jar"/>
+        <file crc="2188537257" name="modules/locale/org-netbeans-modules-mobility-deployment-sonyericsson_ru.jar"/>
+        <file crc="4104580181" name="modules/locale/org-netbeans-modules-mobility-deployment-sonyericsson_zh_CN.jar"/>
+        <file crc="3474926937" name="modules/org-netbeans-modules-mobility-deployment-sonyericsson.jar"/>
+    </module_version>
+</module>

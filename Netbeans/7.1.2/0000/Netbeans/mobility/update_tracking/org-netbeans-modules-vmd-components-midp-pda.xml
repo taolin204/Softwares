@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.vmd.components.midp.pda/2">
+    <module_version install_time="1323291867120" last="true" origin="installer" specification_version="1.14.1">
+        <file crc="2663310064" name="config/Modules/org-netbeans-modules-vmd-components-midp-pda.xml"/>
+        <file crc="596952196" name="modules/ext/netbeans_midp_components_pda.jar"/>
+        <file crc="1169248161" name="modules/locale/org-netbeans-modules-vmd-components-midp-pda_ja.jar"/>
+        <file crc="4209038665" name="modules/locale/org-netbeans-modules-vmd-components-midp-pda_pt_BR.jar"/>
+        <file crc="1065649077" name="modules/locale/org-netbeans-modules-vmd-components-midp-pda_ru.jar"/>
+        <file crc="426141629" name="modules/locale/org-netbeans-modules-vmd-components-midp-pda_zh_CN.jar"/>
+        <file crc="601237215" name="modules/org-netbeans-modules-vmd-components-midp-pda.jar"/>
+    </module_version>
+</module>

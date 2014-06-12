@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.uihandler.exceptionreporter">
+    <module_version install_time="1323291917903" last="true" origin="installer" specification_version="1.14.1">
+        <file crc="3498867761" name="config/Modules/org-netbeans-modules-uihandler-exceptionreporter.xml"/>
+        <file crc="2345765173" name="modules/locale/org-netbeans-modules-uihandler-exceptionreporter_ja.jar"/>
+        <file crc="933989293" name="modules/locale/org-netbeans-modules-uihandler-exceptionreporter_pt_BR.jar"/>
+        <file crc="1421313675" name="modules/locale/org-netbeans-modules-uihandler-exceptionreporter_ru.jar"/>
+        <file crc="4209650650" name="modules/locale/org-netbeans-modules-uihandler-exceptionreporter_zh_CN.jar"/>
+        <file crc="977699772" name="modules/org-netbeans-modules-uihandler-exceptionreporter.jar"/>
+    </module_version>
+</module>

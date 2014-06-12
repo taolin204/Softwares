@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.websvc.saas.services.flickr">
+    <module_version install_time="1323292099588" last="true" origin="installer" specification_version="1.13.1">
+        <file crc="135583465" name="config/Modules/org-netbeans-modules-websvc-saas-services-flickr.xml"/>
+        <file crc="3722283725" name="modules/locale/org-netbeans-modules-websvc-saas-services-flickr_ja.jar"/>
+        <file crc="3359195927" name="modules/locale/org-netbeans-modules-websvc-saas-services-flickr_pt_BR.jar"/>
+        <file crc="196970399" name="modules/locale/org-netbeans-modules-websvc-saas-services-flickr_ru.jar"/>
+        <file crc="3510687180" name="modules/locale/org-netbeans-modules-websvc-saas-services-flickr_zh_CN.jar"/>
+        <file crc="616356109" name="modules/org-netbeans-modules-websvc-saas-services-flickr.jar"/>
+    </module_version>
+</module>

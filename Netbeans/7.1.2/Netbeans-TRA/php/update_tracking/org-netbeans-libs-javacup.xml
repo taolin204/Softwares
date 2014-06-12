@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.libs.javacup/1">
+    <module_version install_time="1323291928045" last="true" origin="installer" specification_version="1.12.1.11">
+        <file crc="2267251787" name="config/Modules/org-netbeans-libs-javacup.xml"/>
+        <file crc="3243250177" name="modules/ext/java-cup-11a.jar"/>
+        <file crc="613203531" name="modules/locale/org-netbeans-libs-javacup_ja.jar"/>
+        <file crc="3550801064" name="modules/locale/org-netbeans-libs-javacup_pt_BR.jar"/>
+        <file crc="3939524567" name="modules/locale/org-netbeans-libs-javacup_ru.jar"/>
+        <file crc="2790423404" name="modules/locale/org-netbeans-libs-javacup_zh_CN.jar"/>
+        <file crc="1036761595" name="modules/org-netbeans-libs-javacup.jar"/>
+    </module_version>
+</module>

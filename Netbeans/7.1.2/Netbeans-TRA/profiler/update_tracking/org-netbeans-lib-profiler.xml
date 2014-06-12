@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.lib.profiler/1">
+    <module_version install_time="1323292066262" last="true" origin="installer" specification_version="1.17.1">
+        <file crc="2155818874" name="config/Modules/org-netbeans-lib-profiler.xml"/>
+        <file crc="1980875899" name="lib/jfluid-server-15.jar"/>
+        <file crc="1918391793" name="lib/jfluid-server-cvm.jar"/>
+        <file crc="349485719" name="lib/jfluid-server.jar"/>
+        <file crc="4227208485" name="lib/locale/jfluid-server_ja.jar"/>
+        <file crc="2854735256" name="lib/locale/jfluid-server_pt_BR.jar"/>
+        <file crc="1034735250" name="lib/locale/jfluid-server_ru.jar"/>
+        <file crc="2452914392" name="lib/locale/jfluid-server_zh_CN.jar"/>
+        <file crc="3500058805" name="modules/locale/org-netbeans-lib-profiler_ja.jar"/>
+        <file crc="1728060288" name="modules/locale/org-netbeans-lib-profiler_pt_BR.jar"/>
+        <file crc="3119741577" name="modules/locale/org-netbeans-lib-profiler_ru.jar"/>
+        <file crc="1706442426" name="modules/locale/org-netbeans-lib-profiler_zh_CN.jar"/>
+        <file crc="2067808652" name="modules/org-netbeans-lib-profiler.jar"/>
+    </module_version>
+</module>

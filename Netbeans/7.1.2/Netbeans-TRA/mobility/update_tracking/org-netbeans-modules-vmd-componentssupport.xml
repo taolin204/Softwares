@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.vmd.componentssupport">
+    <module_version install_time="1323291851229" last="true" origin="installer" specification_version="1.14.1">
+        <file crc="3304951973" name="config/Modules/org-netbeans-modules-vmd-componentssupport.xml"/>
+        <file crc="340535447" name="modules/locale/org-netbeans-modules-vmd-componentssupport_ja.jar"/>
+        <file crc="154194254" name="modules/locale/org-netbeans-modules-vmd-componentssupport_pt_BR.jar"/>
+        <file crc="149569871" name="modules/locale/org-netbeans-modules-vmd-componentssupport_ru.jar"/>
+        <file crc="2790757455" name="modules/locale/org-netbeans-modules-vmd-componentssupport_zh_CN.jar"/>
+        <file crc="932723525" name="modules/org-netbeans-modules-vmd-componentssupport.jar"/>
+    </module_version>
+</module>

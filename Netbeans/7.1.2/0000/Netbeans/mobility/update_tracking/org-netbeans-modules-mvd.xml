@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.mvd/2">
+    <module_version install_time="1323291868518" last="true" origin="installer" specification_version="1.14.1">
+        <file crc="3063424596" name="config/Modules/org-netbeans-modules-mvd.xml"/>
+        <file crc="1037200741" name="modules/locale/org-netbeans-modules-mvd_ja.jar"/>
+        <file crc="2661215017" name="modules/locale/org-netbeans-modules-mvd_pt_BR.jar"/>
+        <file crc="487690418" name="modules/locale/org-netbeans-modules-mvd_ru.jar"/>
+        <file crc="2387279548" name="modules/locale/org-netbeans-modules-mvd_zh_CN.jar"/>
+        <file crc="4153312806" name="modules/org-netbeans-modules-mvd.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.j2me.cdc.project.semc">
+    <module_version install_time="1323291893264" last="true" origin="installer" specification_version="1.13.1">
+        <file crc="2228030096" name="config/Modules/org-netbeans-modules-j2me-cdc-project-semc.xml"/>
+        <file crc="2969404268" name="modules/ext/org-netbeans-modules-j2me-cdc-project-semc.jar"/>
+        <file crc="1702707398" name="modules/locale/org-netbeans-modules-j2me-cdc-project-semc_ja.jar"/>
+        <file crc="2942113557" name="modules/locale/org-netbeans-modules-j2me-cdc-project-semc_pt_BR.jar"/>
+        <file crc="3414088974" name="modules/locale/org-netbeans-modules-j2me-cdc-project-semc_ru.jar"/>
+        <file crc="3795718293" name="modules/locale/org-netbeans-modules-j2me-cdc-project-semc_zh_CN.jar"/>
+        <file crc="3336587710" name="modules/org-netbeans-modules-j2me-cdc-project-semc.jar"/>
+    </module_version>
+</module>

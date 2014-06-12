@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.j2ee.common/1">
+    <module_version install_time="1323291311442" last="true" origin="installer" specification_version="1.67.1">
+        <file crc="1727449412" name="config/Modules/org-netbeans-modules-j2ee-common.xml"/>
+        <file crc="2232932551" name="modules/locale/org-netbeans-modules-j2ee-common_ja.jar"/>
+        <file crc="3127697983" name="modules/locale/org-netbeans-modules-j2ee-common_pt_BR.jar"/>
+        <file crc="648350945" name="modules/locale/org-netbeans-modules-j2ee-common_ru.jar"/>
+        <file crc="4120515686" name="modules/locale/org-netbeans-modules-j2ee-common_zh_CN.jar"/>
+        <file crc="2575348376" name="modules/org-netbeans-modules-j2ee-common.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.j2me.cdc.platform.sun">
+    <module_version install_time="1323291878853" last="true" origin="installer" specification_version="1.13.1">
+        <file crc="2765641094" name="config/Modules/org-netbeans-modules-j2me-cdc-platform-sun.xml"/>
+        <file crc="2500263092" name="modules/locale/org-netbeans-modules-j2me-cdc-platform-sun_ja.jar"/>
+        <file crc="3987352410" name="modules/locale/org-netbeans-modules-j2me-cdc-platform-sun_pt_BR.jar"/>
+        <file crc="1259096084" name="modules/locale/org-netbeans-modules-j2me-cdc-platform-sun_ru.jar"/>
+        <file crc="1294561602" name="modules/locale/org-netbeans-modules-j2me-cdc-platform-sun_zh_CN.jar"/>
+        <file crc="2981447023" name="modules/org-netbeans-modules-j2me-cdc-platform-sun.jar"/>
+    </module_version>
+</module>

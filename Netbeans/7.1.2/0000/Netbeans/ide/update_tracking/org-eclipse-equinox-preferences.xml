@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.eclipse.equinox.preferences">
+    <module_version install_time="1323283730030" last="true" origin="installer" specification_version="3.3.0.v20100503">
+        <file crc="2832856470" name="config/Modules/org-eclipse-equinox-preferences.xml"/>
+        <file crc="2248707089" name="modules/org-eclipse-equinox-preferences.jar"/>
+    </module_version>
+</module>

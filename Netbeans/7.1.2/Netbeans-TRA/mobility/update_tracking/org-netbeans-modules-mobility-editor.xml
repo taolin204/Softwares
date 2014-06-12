@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.mobility.editor">
+    <module_version install_time="1323291907837" last="true" origin="installer" specification_version="1.18.1">
+        <file crc="3354463660" name="config/Modules/org-netbeans-modules-mobility-editor.xml"/>
+        <file crc="1941644863" name="modules/locale/org-netbeans-modules-mobility-editor_ja.jar"/>
+        <file crc="2342009044" name="modules/locale/org-netbeans-modules-mobility-editor_pt_BR.jar"/>
+        <file crc="1038062506" name="modules/locale/org-netbeans-modules-mobility-editor_ru.jar"/>
+        <file crc="3277242363" name="modules/locale/org-netbeans-modules-mobility-editor_zh_CN.jar"/>
+        <file crc="2704497090" name="modules/org-netbeans-modules-mobility-editor.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.hibernate/1">
+    <module_version install_time="1323291676938" last="true" origin="installer" specification_version="1.15.1.1">
+        <file crc="587565303" name="config/Modules/org-netbeans-modules-hibernate.xml"/>
+        <file crc="3628118253" name="modules/locale/org-netbeans-modules-hibernate_ja.jar"/>
+        <file crc="1671590492" name="modules/locale/org-netbeans-modules-hibernate_pt_BR.jar"/>
+        <file crc="2902463770" name="modules/locale/org-netbeans-modules-hibernate_ru.jar"/>
+        <file crc="3434200841" name="modules/locale/org-netbeans-modules-hibernate_zh_CN.jar"/>
+        <file crc="3503980496" name="modules/org-netbeans-modules-hibernate.jar"/>
+    </module_version>
+</module>

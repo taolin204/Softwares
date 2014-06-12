@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.deployment.deviceanywhere">
+    <module_version install_time="1323291830729" last="true" origin="installer" specification_version="1.13.1">
+        <file crc="1803682396" name="ant/nblib/org-netbeans-modules-deployment-deviceanywhere.jar"/>
+        <file crc="2317403425" name="config/Modules/org-netbeans-modules-deployment-deviceanywhere.xml"/>
+        <file crc="4167695674" name="modules/ext/org-netbeans-modules-deployment-deviceanywhere.jar"/>
+        <file crc="2668812357" name="modules/locale/org-netbeans-modules-deployment-deviceanywhere_ja.jar"/>
+        <file crc="2764713562" name="modules/locale/org-netbeans-modules-deployment-deviceanywhere_pt_BR.jar"/>
+        <file crc="2558571105" name="modules/locale/org-netbeans-modules-deployment-deviceanywhere_ru.jar"/>
+        <file crc="511903604" name="modules/locale/org-netbeans-modules-deployment-deviceanywhere_zh_CN.jar"/>
+        <file crc="3135314168" name="modules/org-netbeans-modules-deployment-deviceanywhere.jar"/>
+    </module_version>
+</module>

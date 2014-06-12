@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.vmd.components.midp.wma/2">
+    <module_version install_time="1323291822084" last="true" origin="installer" specification_version="1.14.1">
+        <file crc="2156043748" name="config/Modules/org-netbeans-modules-vmd-components-midp-wma.xml"/>
+        <file crc="781411763" name="modules/ext/netbeans_midp_components_wma.jar"/>
+        <file crc="3478411901" name="modules/locale/org-netbeans-modules-vmd-components-midp-wma_ja.jar"/>
+        <file crc="1048544241" name="modules/locale/org-netbeans-modules-vmd-components-midp-wma_pt_BR.jar"/>
+        <file crc="4284401246" name="modules/locale/org-netbeans-modules-vmd-components-midp-wma_ru.jar"/>
+        <file crc="3118092290" name="modules/locale/org-netbeans-modules-vmd-components-midp-wma_zh_CN.jar"/>
+        <file crc="3778890822" name="modules/org-netbeans-modules-vmd-components-midp-wma.jar"/>
+    </module_version>
+</module>

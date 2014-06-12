@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.web.client.javascript.debugger.ant">
+    <module_version install_time="1323291215759" last="true" origin="installer" specification_version="0.17.1">
+        <file crc="2372164961" name="ant/nblib/org-netbeans-modules-web-client-javascript-debugger-ant.jar"/>
+        <file crc="4104149007" name="config/Modules/org-netbeans-modules-web-client-javascript-debugger-ant.xml"/>
+        <file crc="352607856" name="modules/locale/org-netbeans-modules-web-client-javascript-debugger-ant_ja.jar"/>
+        <file crc="2074490819" name="modules/locale/org-netbeans-modules-web-client-javascript-debugger-ant_pt_BR.jar"/>
+        <file crc="309101175" name="modules/locale/org-netbeans-modules-web-client-javascript-debugger-ant_ru.jar"/>
+        <file crc="2064332523" name="modules/locale/org-netbeans-modules-web-client-javascript-debugger-ant_zh_CN.jar"/>
+        <file crc="945511961" name="modules/org-netbeans-modules-web-client-javascript-debugger-ant.jar"/>
+    </module_version>
+</module>

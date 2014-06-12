@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.websvc.saas.services.yahoo">
+    <module_version install_time="1323292098098" last="true" origin="installer" specification_version="1.13.1">
+        <file crc="2958983485" name="config/Modules/org-netbeans-modules-websvc-saas-services-yahoo.xml"/>
+        <file crc="428619084" name="modules/locale/org-netbeans-modules-websvc-saas-services-yahoo_ja.jar"/>
+        <file crc="2114188634" name="modules/locale/org-netbeans-modules-websvc-saas-services-yahoo_pt_BR.jar"/>
+        <file crc="244789592" name="modules/locale/org-netbeans-modules-websvc-saas-services-yahoo_ru.jar"/>
+        <file crc="4125361242" name="modules/locale/org-netbeans-modules-websvc-saas-services-yahoo_zh_CN.jar"/>
+        <file crc="462083530" name="modules/org-netbeans-modules-websvc-saas-services-yahoo.jar"/>
+    </module_version>
+</module>

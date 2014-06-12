@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.web.core/2">
+    <module_version install_time="1323291230491" last="true" origin="installer" specification_version="2.17.1.43.2">
+        <file crc="1119021518" name="config/Modules/org-netbeans-modules-web-core.xml"/>
+        <file crc="413919576" name="modules/locale/org-netbeans-modules-web-core_ja.jar"/>
+        <file crc="2826985145" name="modules/locale/org-netbeans-modules-web-core_pt_BR.jar"/>
+        <file crc="881587515" name="modules/locale/org-netbeans-modules-web-core_ru.jar"/>
+        <file crc="4094429519" name="modules/locale/org-netbeans-modules-web-core_zh_CN.jar"/>
+        <file crc="3349612079" name="modules/org-netbeans-modules-web-core.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.updatecenters/1">
+    <module_version install_time="1323291920778" last="true" origin="installer" specification_version="1.25.1">
+        <file crc="2121888661" name="config/Modules/org-netbeans-modules-updatecenters.xml"/>
+        <file crc="2364294722" name="modules/locale/org-netbeans-modules-updatecenters_ja.jar"/>
+        <file crc="3659385553" name="modules/locale/org-netbeans-modules-updatecenters_pt_BR.jar"/>
+        <file crc="3574014106" name="modules/locale/org-netbeans-modules-updatecenters_ru.jar"/>
+        <file crc="1506417093" name="modules/locale/org-netbeans-modules-updatecenters_zh_CN.jar"/>
+        <file crc="1885833151" name="modules/org-netbeans-modules-updatecenters.jar"/>
+    </module_version>
+</module>

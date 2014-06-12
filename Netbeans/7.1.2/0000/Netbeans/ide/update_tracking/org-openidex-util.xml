@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.openidex.util/3">
+    <module_version install_time="1323291411239" last="true" origin="installer" specification_version="3.32.1">
+        <file crc="2386101868" name="config/Modules/org-openidex-util.xml"/>
+        <file crc="2390657882" name="modules/locale/org-openidex-util_ja.jar"/>
+        <file crc="1759029691" name="modules/locale/org-openidex-util_pt_BR.jar"/>
+        <file crc="2529555530" name="modules/locale/org-openidex-util_ru.jar"/>
+        <file crc="4125289960" name="modules/locale/org-openidex-util_zh_CN.jar"/>
+        <file crc="748708448" name="modules/org-openidex-util.jar"/>
+    </module_version>
+</module>

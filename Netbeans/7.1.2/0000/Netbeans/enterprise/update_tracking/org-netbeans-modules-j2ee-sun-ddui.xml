@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.j2ee.sun.ddui/1">
+    <module_version install_time="1323291221682" last="true" origin="installer" specification_version="1.22.1.1.1">
+        <file crc="972395137" name="config/Modules/org-netbeans-modules-j2ee-sun-ddui.xml"/>
+        <file crc="2055533079" name="modules/locale/org-netbeans-modules-j2ee-sun-ddui_ja.jar"/>
+        <file crc="4158508821" name="modules/locale/org-netbeans-modules-j2ee-sun-ddui_pt_BR.jar"/>
+        <file crc="307131263" name="modules/locale/org-netbeans-modules-j2ee-sun-ddui_ru.jar"/>
+        <file crc="1080554020" name="modules/locale/org-netbeans-modules-j2ee-sun-ddui_zh_CN.jar"/>
+        <file crc="730152614" name="modules/org-netbeans-modules-j2ee-sun-ddui.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.ide.ergonomics">
+    <module_version install_time="1323291343353" last="true" origin="installer" specification_version="1.13.1">
+        <file crc="2466890689" name="config/Modules/org-netbeans-modules-ide-ergonomics.xml"/>
+        <file crc="3310149268" name="modules/locale/org-netbeans-modules-ide-ergonomics_ja.jar"/>
+        <file crc="2618873367" name="modules/locale/org-netbeans-modules-ide-ergonomics_pt_BR.jar"/>
+        <file crc="4280478804" name="modules/locale/org-netbeans-modules-ide-ergonomics_ru.jar"/>
+        <file crc="852599148" name="modules/locale/org-netbeans-modules-ide-ergonomics_zh_CN.jar"/>
+        <file crc="2552869651" name="modules/org-netbeans-modules-ide-ergonomics.jar"/>
+    </module_version>
+</module>

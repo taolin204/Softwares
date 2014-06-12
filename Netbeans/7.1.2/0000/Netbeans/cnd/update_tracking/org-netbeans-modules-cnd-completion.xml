@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.cnd.completion/1">
+    <module_version install_time="1323291137825" last="true" origin="installer" specification_version="1.16.1.1">
+        <file crc="3528459519" name="config/Modules/org-netbeans-modules-cnd-completion.xml"/>
+        <file crc="2078905361" name="modules/locale/org-netbeans-modules-cnd-completion_ja.jar"/>
+        <file crc="3558421332" name="modules/locale/org-netbeans-modules-cnd-completion_pt_BR.jar"/>
+        <file crc="3347505530" name="modules/locale/org-netbeans-modules-cnd-completion_ru.jar"/>
+        <file crc="3279089292" name="modules/locale/org-netbeans-modules-cnd-completion_zh_CN.jar"/>
+        <file crc="2823253807" name="modules/org-netbeans-modules-cnd-completion.jar"/>
+    </module_version>
+</module>

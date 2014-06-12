@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.xml.tools/2">
+    <module_version install_time="1323291563501" last="true" origin="installer" specification_version="1.28.1">
+        <file crc="3189568242" name="config/Modules/org-netbeans-modules-xml-tools.xml"/>
+        <file crc="247022345" name="modules/locale/org-netbeans-modules-xml-tools_ja.jar"/>
+        <file crc="2979745927" name="modules/locale/org-netbeans-modules-xml-tools_pt_BR.jar"/>
+        <file crc="1887281262" name="modules/locale/org-netbeans-modules-xml-tools_ru.jar"/>
+        <file crc="1817983330" name="modules/locale/org-netbeans-modules-xml-tools_zh_CN.jar"/>
+        <file crc="143227266" name="modules/org-netbeans-modules-xml-tools.jar"/>
+    </module_version>
+</module>

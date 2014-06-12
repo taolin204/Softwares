@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.cnd.source">
+    <module_version install_time="1323291149631" last="true" origin="installer" specification_version="1.8.1.1">
+        <file crc="2384432187" name="config/Modules/org-netbeans-modules-cnd-source.xml"/>
+        <file crc="86729191" name="modules/locale/org-netbeans-modules-cnd-source_ja.jar"/>
+        <file crc="658090760" name="modules/locale/org-netbeans-modules-cnd-source_pt_BR.jar"/>
+        <file crc="3432262169" name="modules/locale/org-netbeans-modules-cnd-source_ru.jar"/>
+        <file crc="363274979" name="modules/locale/org-netbeans-modules-cnd-source_zh_CN.jar"/>
+        <file crc="2798247828" name="modules/org-netbeans-modules-cnd-source.jar"/>
+    </module_version>
+</module>

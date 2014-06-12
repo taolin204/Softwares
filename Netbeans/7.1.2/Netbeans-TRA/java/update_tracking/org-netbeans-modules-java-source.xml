@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.java.source">
+    <module_version install_time="1323291723358" last="true" origin="installer" specification_version="0.91.1.19.15.6">
+        <file crc="4176813532" name="config/Modules/org-netbeans-modules-java-source.xml"/>
+        <file crc="2393466657" name="modules/locale/org-netbeans-modules-java-source_ja.jar"/>
+        <file crc="540140414" name="modules/locale/org-netbeans-modules-java-source_pt_BR.jar"/>
+        <file crc="3284049959" name="modules/locale/org-netbeans-modules-java-source_ru.jar"/>
+        <file crc="2974972178" name="modules/locale/org-netbeans-modules-java-source_zh_CN.jar"/>
+        <file crc="3976028036" name="modules/org-netbeans-modules-java-source.jar"/>
+    </module_version>
+</module>

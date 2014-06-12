@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.dlight.kit">
+    <module_version install_time="1323291179510" last="true" origin="installer" specification_version="1.11.1.1">
+        <file crc="750295560" name="config/Modules/org-netbeans-modules-dlight-kit.xml"/>
+        <file crc="1676402466" name="modules/locale/org-netbeans-modules-dlight-kit_ja.jar"/>
+        <file crc="702102903" name="modules/locale/org-netbeans-modules-dlight-kit_pt_BR.jar"/>
+        <file crc="3542764749" name="modules/locale/org-netbeans-modules-dlight-kit_ru.jar"/>
+        <file crc="472864864" name="modules/locale/org-netbeans-modules-dlight-kit_zh_CN.jar"/>
+        <file crc="3889555442" name="modules/org-netbeans-modules-dlight-kit.jar"/>
+    </module_version>
+</module>

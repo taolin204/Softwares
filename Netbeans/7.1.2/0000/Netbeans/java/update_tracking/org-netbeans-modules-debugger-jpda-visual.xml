@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.debugger.jpda.visual/1">
+    <module_version install_time="1323291708572" last="true" origin="installer" specification_version="1.1.1">
+        <file crc="1141697199" name="config/Modules/org-netbeans-modules-debugger-jpda-visual.xml"/>
+        <file crc="3504617630" name="modules/locale/org-netbeans-modules-debugger-jpda-visual_ja.jar"/>
+        <file crc="3181368750" name="modules/locale/org-netbeans-modules-debugger-jpda-visual_pt_BR.jar"/>
+        <file crc="95320116" name="modules/locale/org-netbeans-modules-debugger-jpda-visual_ru.jar"/>
+        <file crc="1387221057" name="modules/locale/org-netbeans-modules-debugger-jpda-visual_zh_CN.jar"/>
+        <file crc="992747437" name="modules/org-netbeans-modules-debugger-jpda-visual.jar"/>
+    </module_version>
+</module>

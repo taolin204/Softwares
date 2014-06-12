@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.extexecution.destroy">
+    <module_version install_time="1323291614775" last="true" origin="installer" specification_version="1.10.1">
+        <file crc="3152939819" name="config/Modules/org-netbeans-modules-extexecution-destroy.xml"/>
+        <file crc="1530983162" name="modules/ext/libpam4j-1.1.jar"/>
+        <file crc="693707867" name="modules/ext/processtreekiller-1.0.1.jar"/>
+        <file crc="1352008848" name="modules/ext/winp-1.14-patched.jar"/>
+        <file crc="2117412867" name="modules/locale/org-netbeans-modules-extexecution-destroy_ja.jar"/>
+        <file crc="2243330815" name="modules/locale/org-netbeans-modules-extexecution-destroy_pt_BR.jar"/>
+        <file crc="992152581" name="modules/locale/org-netbeans-modules-extexecution-destroy_ru.jar"/>
+        <file crc="2834418507" name="modules/locale/org-netbeans-modules-extexecution-destroy_zh_CN.jar"/>
+        <file crc="1978041783" name="modules/org-netbeans-modules-extexecution-destroy.jar"/>
+    </module_version>
+</module>

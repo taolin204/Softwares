@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.classfile/1">
+    <module_version install_time="1323291641609" last="true" origin="installer" specification_version="1.33.1">
+        <file crc="1036648877" name="config/Modules/org-netbeans-modules-classfile.xml"/>
+        <file crc="1341428087" name="modules/locale/org-netbeans-modules-classfile_ja.jar"/>
+        <file crc="2090271737" name="modules/locale/org-netbeans-modules-classfile_pt_BR.jar"/>
+        <file crc="3223801616" name="modules/locale/org-netbeans-modules-classfile_ru.jar"/>
+        <file crc="3595518318" name="modules/locale/org-netbeans-modules-classfile_zh_CN.jar"/>
+        <file crc="3845196481" name="modules/org-netbeans-modules-classfile.jar"/>
+    </module_version>
+</module>

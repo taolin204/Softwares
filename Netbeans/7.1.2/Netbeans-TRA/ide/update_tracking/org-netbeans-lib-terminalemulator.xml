@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.lib.terminalemulator">
+    <module_version install_time="1323291585799" last="true" origin="installer" specification_version="1.18.1">
+        <file crc="3582975702" name="config/Modules/org-netbeans-lib-terminalemulator.xml"/>
+        <file crc="3660442346" name="modules/locale/org-netbeans-lib-terminalemulator_ja.jar"/>
+        <file crc="2353251864" name="modules/locale/org-netbeans-lib-terminalemulator_pt_BR.jar"/>
+        <file crc="482013833" name="modules/locale/org-netbeans-lib-terminalemulator_ru.jar"/>
+        <file crc="2437327201" name="modules/locale/org-netbeans-lib-terminalemulator_zh_CN.jar"/>
+        <file crc="2212534516" name="modules/org-netbeans-lib-terminalemulator.jar"/>
+    </module_version>
+</module>

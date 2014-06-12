@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.project.libraries/1">
+    <module_version install_time="1323291474033" last="true" origin="installer" specification_version="1.32.1">
+        <file crc="2974763789" name="config/Modules/org-netbeans-modules-project-libraries.xml"/>
+        <file crc="1994837368" name="modules/locale/org-netbeans-modules-project-libraries_ja.jar"/>
+        <file crc="1660925037" name="modules/locale/org-netbeans-modules-project-libraries_pt_BR.jar"/>
+        <file crc="3852867496" name="modules/locale/org-netbeans-modules-project-libraries_ru.jar"/>
+        <file crc="2938745011" name="modules/locale/org-netbeans-modules-project-libraries_zh_CN.jar"/>
+        <file crc="1920054303" name="modules/org-netbeans-modules-project-libraries.jar"/>
+    </module_version>
+</module>
