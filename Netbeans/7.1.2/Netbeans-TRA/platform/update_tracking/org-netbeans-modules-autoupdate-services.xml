@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.autoupdate.services">
-    <module_version install_time="1323292033957" last="true" origin="installer" specification_version="1.28.1">
+    <module_version install_time="1323292033957" last="false" origin="installer" specification_version="1.28.1">
         <file crc="83784818" name="config/Modules/org-netbeans-modules-autoupdate-services.xml"/>
         <file crc="2596111038" name="modules/ext/locale/updater_ja.jar"/>
         <file crc="1676017204" name="modules/ext/locale/updater_pt_BR.jar"/>
@@ -12,5 +12,17 @@
         <file crc="3651791538" name="modules/locale/org-netbeans-modules-autoupdate-services_ru.jar"/>
         <file crc="490797506" name="modules/locale/org-netbeans-modules-autoupdate-services_zh_CN.jar"/>
         <file crc="3347721545" name="modules/org-netbeans-modules-autoupdate-services.jar"/>
+    </module_version>
+    <module_version install_time="1402900606549" last="true" origin="NetBeans Distribution" specification_version="1.28.2">
+        <file crc="2682716719" name="modules/ext/locale/updater_ja.jar"/>
+        <file crc="4232826280" name="modules/ext/locale/updater_pt_BR.jar"/>
+        <file crc="1625784937" name="modules/ext/locale/updater_ru.jar"/>
+        <file crc="3883820090" name="modules/ext/locale/updater_zh_CN.jar"/>
+        <file crc="2975998273" name="modules/locale/org-netbeans-modules-autoupdate-services_ja.jar"/>
+        <file crc="1192215442" name="modules/locale/org-netbeans-modules-autoupdate-services_pt_BR.jar"/>
+        <file crc="3903704678" name="modules/locale/org-netbeans-modules-autoupdate-services_ru.jar"/>
+        <file crc="177664287" name="modules/locale/org-netbeans-modules-autoupdate-services_zh_CN.jar"/>
+        <file crc="83784818" name="config/Modules/org-netbeans-modules-autoupdate-services.xml"/>
+        <file crc="1014886200" name="modules/org-netbeans-modules-autoupdate-services.jar"/>
     </module_version>
 </module>

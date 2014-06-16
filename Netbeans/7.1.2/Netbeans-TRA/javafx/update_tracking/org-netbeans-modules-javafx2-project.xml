@@ -1,11 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.javafx2.project">
-    <module_version install_time="1323291813439" last="true" origin="installer" specification_version="1.5.1">
+    <module_version install_time="1323291813439" last="false" origin="installer" specification_version="1.5.1">
         <file crc="2492679332" name="config/Modules/org-netbeans-modules-javafx2-project.xml"/>
         <file crc="2035782880" name="modules/locale/org-netbeans-modules-javafx2-project_ja.jar"/>
         <file crc="2272563646" name="modules/locale/org-netbeans-modules-javafx2-project_pt_BR.jar"/>
         <file crc="1561925166" name="modules/locale/org-netbeans-modules-javafx2-project_ru.jar"/>
         <file crc="2098991960" name="modules/locale/org-netbeans-modules-javafx2-project_zh_CN.jar"/>
         <file crc="3272464410" name="modules/org-netbeans-modules-javafx2-project.jar"/>
+    </module_version>
+    <module_version install_time="1402900602881" last="true" origin="NetBeans Distribution" specification_version="1.5.4">
+        <file crc="1373824813" name="modules/locale/org-netbeans-modules-javafx2-project_ja.jar"/>
+        <file crc="1530932647" name="modules/locale/org-netbeans-modules-javafx2-project_pt_BR.jar"/>
+        <file crc="697614828" name="modules/locale/org-netbeans-modules-javafx2-project_ru.jar"/>
+        <file crc="2582165254" name="modules/locale/org-netbeans-modules-javafx2-project_zh_CN.jar"/>
+        <file crc="2492679332" name="config/Modules/org-netbeans-modules-javafx2-project.xml"/>
+        <file crc="3026351028" name="modules/org-netbeans-modules-javafx2-project.jar"/>
     </module_version>
 </module>

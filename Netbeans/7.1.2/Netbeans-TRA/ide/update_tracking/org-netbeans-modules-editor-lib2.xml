@@ -1,11 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.editor.lib2/1">
-    <module_version install_time="1323291376386" last="true" origin="installer" specification_version="1.53.1.25">
+    <module_version install_time="1323291376386" last="false" origin="installer" specification_version="1.53.1.25">
         <file crc="1027150669" name="config/Modules/org-netbeans-modules-editor-lib2.xml"/>
         <file crc="1847813978" name="modules/locale/org-netbeans-modules-editor-lib2_ja.jar"/>
         <file crc="696836567" name="modules/locale/org-netbeans-modules-editor-lib2_pt_BR.jar"/>
         <file crc="631668603" name="modules/locale/org-netbeans-modules-editor-lib2_ru.jar"/>
         <file crc="966602125" name="modules/locale/org-netbeans-modules-editor-lib2_zh_CN.jar"/>
         <file crc="1248462599" name="modules/org-netbeans-modules-editor-lib2.jar"/>
+    </module_version>
+    <module_version install_time="1402900611428" last="true" origin="NetBeans Distribution" specification_version="1.53.2.25">
+        <file crc="2734547778" name="modules/locale/org-netbeans-modules-editor-lib2_ja.jar"/>
+        <file crc="2175777764" name="modules/locale/org-netbeans-modules-editor-lib2_pt_BR.jar"/>
+        <file crc="4214632594" name="modules/locale/org-netbeans-modules-editor-lib2_ru.jar"/>
+        <file crc="263016319" name="modules/locale/org-netbeans-modules-editor-lib2_zh_CN.jar"/>
+        <file crc="1027150669" name="config/Modules/org-netbeans-modules-editor-lib2.xml"/>
+        <file crc="643706587" name="modules/org-netbeans-modules-editor-lib2.jar"/>
     </module_version>
 </module>

@@ -1,11 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.php.kit">
-    <module_version install_time="1323291926610" last="true" origin="installer" specification_version="1.27.1">
+    <module_version install_time="1323291926610" last="false" origin="installer" specification_version="1.27.1">
         <file crc="2810538814" name="config/Modules/org-netbeans-modules-php-kit.xml"/>
         <file crc="1871832670" name="modules/locale/org-netbeans-modules-php-kit_ja.jar"/>
         <file crc="793568403" name="modules/locale/org-netbeans-modules-php-kit_pt_BR.jar"/>
         <file crc="3403948334" name="modules/locale/org-netbeans-modules-php-kit_ru.jar"/>
         <file crc="987491568" name="modules/locale/org-netbeans-modules-php-kit_zh_CN.jar"/>
         <file crc="1042415896" name="modules/org-netbeans-modules-php-kit.jar"/>
+    </module_version>
+    <module_version install_time="1402900641004" last="true" origin="NetBeans Distribution" specification_version="1.27.2">
+        <file crc="565516709" name="modules/locale/org-netbeans-modules-php-kit_ja.jar"/>
+        <file crc="1145465372" name="modules/locale/org-netbeans-modules-php-kit_pt_BR.jar"/>
+        <file crc="2784384435" name="modules/locale/org-netbeans-modules-php-kit_ru.jar"/>
+        <file crc="4186662951" name="modules/locale/org-netbeans-modules-php-kit_zh_CN.jar"/>
+        <file crc="2586542873" name="VERSION.txt"/>
+        <file crc="2810538814" name="config/Modules/org-netbeans-modules-php-kit.xml"/>
+        <file crc="1448933960" name="modules/org-netbeans-modules-php-kit.jar"/>
     </module_version>
 </module>

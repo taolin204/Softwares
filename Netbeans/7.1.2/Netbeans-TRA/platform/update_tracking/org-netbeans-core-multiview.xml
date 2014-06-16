@@ -1,11 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.core.multiview/1">
-    <module_version install_time="1323291952980" last="true" origin="installer" specification_version="1.26.1">
+    <module_version install_time="1323291952980" last="false" origin="installer" specification_version="1.26.1">
         <file crc="3216778929" name="config/Modules/org-netbeans-core-multiview.xml"/>
         <file crc="748894942" name="modules/locale/org-netbeans-core-multiview_ja.jar"/>
         <file crc="331319724" name="modules/locale/org-netbeans-core-multiview_pt_BR.jar"/>
         <file crc="3784929904" name="modules/locale/org-netbeans-core-multiview_ru.jar"/>
         <file crc="4173343534" name="modules/locale/org-netbeans-core-multiview_zh_CN.jar"/>
         <file crc="1074847023" name="modules/org-netbeans-core-multiview.jar"/>
+    </module_version>
+    <module_version install_time="1402900608520" last="true" origin="NetBeans Distribution" specification_version="1.26.2">
+        <file crc="2787130429" name="modules/locale/org-netbeans-core-multiview_ja.jar"/>
+        <file crc="3998469201" name="modules/locale/org-netbeans-core-multiview_pt_BR.jar"/>
+        <file crc="4282912704" name="modules/locale/org-netbeans-core-multiview_ru.jar"/>
+        <file crc="1497983353" name="modules/locale/org-netbeans-core-multiview_zh_CN.jar"/>
+        <file crc="3216778929" name="config/Modules/org-netbeans-core-multiview.xml"/>
+        <file crc="2885960238" name="modules/org-netbeans-core-multiview.jar"/>
     </module_version>
 </module>

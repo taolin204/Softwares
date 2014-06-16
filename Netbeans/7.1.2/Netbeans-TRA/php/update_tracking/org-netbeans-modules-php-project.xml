@@ -1,11 +1,116 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.php.project">
-    <module_version install_time="1323291944265" last="true" origin="installer" specification_version="2.39.1">
+    <module_version install_time="1323291944265" last="false" origin="installer" specification_version="2.39.1">
         <file crc="1602136690" name="config/Modules/org-netbeans-modules-php-project.xml"/>
         <file crc="2968569298" name="modules/locale/org-netbeans-modules-php-project_ja.jar"/>
         <file crc="192465228" name="modules/locale/org-netbeans-modules-php-project_pt_BR.jar"/>
         <file crc="1014954693" name="modules/locale/org-netbeans-modules-php-project_ru.jar"/>
         <file crc="1394896008" name="modules/locale/org-netbeans-modules-php-project_zh_CN.jar"/>
         <file crc="991991543" name="modules/org-netbeans-modules-php-project.jar"/>
+    </module_version>
+    <module_version install_time="1402900626112" last="true" origin="NetBeans Distribution" specification_version="2.39.2">
+        <file crc="505097496" name="modules/locale/org-netbeans-modules-php-project_ja.jar"/>
+        <file crc="1898712199" name="modules/locale/org-netbeans-modules-php-project_pt_BR.jar"/>
+        <file crc="2160618794" name="modules/locale/org-netbeans-modules-php-project_ru.jar"/>
+        <file crc="1447952141" name="modules/locale/org-netbeans-modules-php-project_zh_CN.jar"/>
+        <file crc="1602136690" name="config/Modules/org-netbeans-modules-php-project.xml"/>
+        <file crc="650209793" name="modules/org-netbeans-modules-php-project.jar"/>
+        <file crc="464753010" name="phpstubs/phpruntime/Core.php"/>
+        <file crc="4201625094" name="phpstubs/phpruntime/PDO.php"/>
+        <file crc="1696246754" name="phpstubs/phpruntime/PDO_ODBC.php"/>
+        <file crc="951266017" name="phpstubs/phpruntime/Phar.php"/>
+        <file crc="1864990613" name="phpstubs/phpruntime/Reflection.php"/>
+        <file crc="3288674151" name="phpstubs/phpruntime/SPL.php"/>
+        <file crc="2207345981" name="phpstubs/phpruntime/SPPLUS.php"/>
+        <file crc="2275959441" name="phpstubs/phpruntime/SQLite.php"/>
+        <file crc="2132932367" name="phpstubs/phpruntime/SimpleXML.php"/>
+        <file crc="3552678313" name="phpstubs/phpruntime/ZendCache.php"/>
+        <file crc="1926478255" name="phpstubs/phpruntime/ZendDebugger.php"/>
+        <file crc="297950076" name="phpstubs/phpruntime/ZendUtils.php"/>
+        <file crc="2576583223" name="phpstubs/phpruntime/apc.php"/>
+        <file crc="3836430734" name="phpstubs/phpruntime/basic.php"/>
+        <file crc="1218850729" name="phpstubs/phpruntime/bcmath.php"/>
+        <file crc="1253695367" name="phpstubs/phpruntime/bz2.php"/>
+        <file crc="1136418034" name="phpstubs/phpruntime/calendar.php"/>
+        <file crc="810675099" name="phpstubs/phpruntime/ctype.php"/>
+        <file crc="3914131268" name="phpstubs/phpruntime/curl.php"/>
+        <file crc="2739653296" name="phpstubs/phpruntime/date.php"/>
+        <file crc="240774817" name="phpstubs/phpruntime/dba.php"/>
+        <file crc="4143449306" name="phpstubs/phpruntime/dom.php"/>
+        <file crc="4248420416" name="phpstubs/phpruntime/enchant.php"/>
+        <file crc="1590935078" name="phpstubs/phpruntime/ereg.php"/>
+        <file crc="1356868470" name="phpstubs/phpruntime/exif.php"/>
+        <file crc="1124419507" name="phpstubs/phpruntime/fileinfo.php"/>
+        <file crc="518590880" name="phpstubs/phpruntime/filter.php"/>
+        <file crc="2486141079" name="phpstubs/phpruntime/ftp.php"/>
+        <file crc="1333197889" name="phpstubs/phpruntime/gd.php"/>
+        <file crc="2452170477" name="phpstubs/phpruntime/geoip.php"/>
+        <file crc="1493558255" name="phpstubs/phpruntime/gettext.php"/>
+        <file crc="864785605" name="phpstubs/phpruntime/gmp.php"/>
+        <file crc="3312461250" name="phpstubs/phpruntime/hash.php"/>
+        <file crc="1977144196" name="phpstubs/phpruntime/http.php"/>
+        <file crc="4207748705" name="phpstubs/phpruntime/iconv.php"/>
+        <file crc="2660555725" name="phpstubs/phpruntime/imagick.php"/>
+        <file crc="783708120" name="phpstubs/phpruntime/imap.php"/>
+        <file crc="3821403808" name="phpstubs/phpruntime/interbase.php"/>
+        <file crc="23599432" name="phpstubs/phpruntime/intl.php"/>
+        <file crc="1745284192" name="phpstubs/phpruntime/json.php"/>
+        <file crc="3373434497" name="phpstubs/phpruntime/ldap.php"/>
+        <file crc="2128036526" name="phpstubs/phpruntime/libxml.php"/>
+        <file crc="643699483" name="phpstubs/phpruntime/mbstring.php"/>
+        <file crc="3339539412" name="phpstubs/phpruntime/mcrypt.php"/>
+        <file crc="308414589" name="phpstubs/phpruntime/memcache.php"/>
+        <file crc="3284207029" name="phpstubs/phpruntime/memcached.php"/>
+        <file crc="1169852654" name="phpstubs/phpruntime/mhash.php"/>
+        <file crc="1203274185" name="phpstubs/phpruntime/mime_magic.php"/>
+        <file crc="4057936585" name="phpstubs/phpruntime/ming.php"/>
+        <file crc="1888637092" name="phpstubs/phpruntime/mssql.php"/>
+        <file crc="4088464046" name="phpstubs/phpruntime/mysql.php"/>
+        <file crc="1023468932" name="phpstubs/phpruntime/mysqli.php"/>
+        <file crc="943788770" name="phpstubs/phpruntime/mysqlnd.php"/>
+        <file crc="2937244826" name="phpstubs/phpruntime/ncurses.php"/>
+        <file crc="3246953727" name="phpstubs/phpruntime/oci8.php"/>
+        <file crc="4155116782" name="phpstubs/phpruntime/odbc.php"/>
+        <file crc="3118771674" name="phpstubs/phpruntime/openssl.php"/>
+        <file crc="2445463878" name="phpstubs/phpruntime/pcntl.php"/>
+        <file crc="2251261632" name="phpstubs/phpruntime/pcre.php"/>
+        <file crc="4247008705" name="phpstubs/phpruntime/pdo_dblib.php"/>
+        <file crc="3695103072" name="phpstubs/phpruntime/pdo_mysql.php"/>
+        <file crc="3285424018" name="phpstubs/phpruntime/pdo_pgsql.php"/>
+        <file crc="2725381164" name="phpstubs/phpruntime/pdo_sqlite.php"/>
+        <file crc="436787102" name="phpstubs/phpruntime/pgsql.php"/>
+        <file crc="3960834624" name="phpstubs/phpruntime/posix.php"/>
+        <file crc="1682504842" name="phpstubs/phpruntime/ps.php"/>
+        <file crc="1468573987" name="phpstubs/phpruntime/pspell.php"/>
+        <file crc="15747432" name="phpstubs/phpruntime/radius.php"/>
+        <file crc="2556874304" name="phpstubs/phpruntime/readline.php"/>
+        <file crc="3465386466" name="phpstubs/phpruntime/recode.php"/>
+        <file crc="2762460392" name="phpstubs/phpruntime/session.php"/>
+        <file crc="3727056921" name="phpstubs/phpruntime/shmop.php"/>
+        <file crc="2390457201" name="phpstubs/phpruntime/snmp.php"/>
+        <file crc="807930066" name="phpstubs/phpruntime/soap.php"/>
+        <file crc="3771574882" name="phpstubs/phpruntime/sockets.php"/>
+        <file crc="1042220716" name="phpstubs/phpruntime/sqlite3.php"/>
+        <file crc="508571482" name="phpstubs/phpruntime/ssh2.php"/>
+        <file crc="805287493" name="phpstubs/phpruntime/standard.php"/>
+        <file crc="1110723517" name="phpstubs/phpruntime/suhosin.php"/>
+        <file crc="1095427333" name="phpstubs/phpruntime/svn.php"/>
+        <file crc="452479920" name="phpstubs/phpruntime/sybase_ct.php"/>
+        <file crc="3483396703" name="phpstubs/phpruntime/sysvmsg.php"/>
+        <file crc="1358260710" name="phpstubs/phpruntime/sysvsem.php"/>
+        <file crc="2054901835" name="phpstubs/phpruntime/sysvshm.php"/>
+        <file crc="2312992462" name="phpstubs/phpruntime/tidy.php"/>
+        <file crc="2803036021" name="phpstubs/phpruntime/tokenizer.php"/>
+        <file crc="2208867783" name="phpstubs/phpruntime/wddx.php"/>
+        <file crc="4231666891" name="phpstubs/phpruntime/xdebug.php"/>
+        <file crc="3386173336" name="phpstubs/phpruntime/xml.php"/>
+        <file crc="2559003661" name="phpstubs/phpruntime/xmlreader.php"/>
+        <file crc="1510715086" name="phpstubs/phpruntime/xmlrpc.php"/>
+        <file crc="1566890499" name="phpstubs/phpruntime/xmlwriter.php"/>
+        <file crc="3072920554" name="phpstubs/phpruntime/xsl.php"/>
+        <file crc="619621427" name="phpstubs/phpruntime/zend.php"/>
+        <file crc="2707018946" name="phpstubs/phpruntime/zip.php"/>
+        <file crc="2345800242" name="phpstubs/phpruntime/zlib.php"/>
+        <file crc="3153134073" name="phpunit/NetBeansSuite.php"/>
     </module_version>
 </module>

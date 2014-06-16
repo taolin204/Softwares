@@ -1,11 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.web.beans/1">
-    <module_version install_time="1323291218611" last="true" origin="installer" specification_version="1.11.1">
+    <module_version install_time="1323291218611" last="false" origin="installer" specification_version="1.11.1">
         <file crc="471089975" name="config/Modules/org-netbeans-modules-web-beans.xml"/>
         <file crc="2701530791" name="modules/locale/org-netbeans-modules-web-beans_ja.jar"/>
         <file crc="2141595907" name="modules/locale/org-netbeans-modules-web-beans_pt_BR.jar"/>
         <file crc="1248051496" name="modules/locale/org-netbeans-modules-web-beans_ru.jar"/>
         <file crc="2594147885" name="modules/locale/org-netbeans-modules-web-beans_zh_CN.jar"/>
         <file crc="3677344758" name="modules/org-netbeans-modules-web-beans.jar"/>
+    </module_version>
+    <module_version install_time="1402900623363" last="true" origin="NetBeans Distribution" specification_version="1.11.2">
+        <file crc="3519729846" name="modules/locale/org-netbeans-modules-web-beans_ja.jar"/>
+        <file crc="2965775709" name="modules/locale/org-netbeans-modules-web-beans_pt_BR.jar"/>
+        <file crc="1455520637" name="modules/locale/org-netbeans-modules-web-beans_ru.jar"/>
+        <file crc="2263381636" name="modules/locale/org-netbeans-modules-web-beans_zh_CN.jar"/>
+        <file crc="471089975" name="config/Modules/org-netbeans-modules-web-beans.xml"/>
+        <file crc="2287847897" name="modules/org-netbeans-modules-web-beans.jar"/>
     </module_version>
 </module>

@@ -1,11 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.glassfish.eecommon/0">
-    <module_version install_time="1323291277855" last="true" origin="installer" specification_version="1.12.1.1.1">
+    <module_version install_time="1323291277855" last="false" origin="installer" specification_version="1.12.1.1.1">
         <file crc="2094030658" name="config/Modules/org-netbeans-modules-glassfish-eecommon.xml"/>
         <file crc="1766188299" name="modules/locale/org-netbeans-modules-glassfish-eecommon_ja.jar"/>
         <file crc="2649032528" name="modules/locale/org-netbeans-modules-glassfish-eecommon_pt_BR.jar"/>
         <file crc="1654312254" name="modules/locale/org-netbeans-modules-glassfish-eecommon_ru.jar"/>
         <file crc="1122973580" name="modules/locale/org-netbeans-modules-glassfish-eecommon_zh_CN.jar"/>
         <file crc="1166939320" name="modules/org-netbeans-modules-glassfish-eecommon.jar"/>
+    </module_version>
+    <module_version install_time="1402900623039" last="true" origin="NetBeans Distribution" specification_version="1.12.2.1.1">
+        <file crc="470103975" name="modules/locale/org-netbeans-modules-glassfish-eecommon_ja.jar"/>
+        <file crc="1785166944" name="modules/locale/org-netbeans-modules-glassfish-eecommon_pt_BR.jar"/>
+        <file crc="1050541647" name="modules/locale/org-netbeans-modules-glassfish-eecommon_ru.jar"/>
+        <file crc="3967625402" name="modules/locale/org-netbeans-modules-glassfish-eecommon_zh_CN.jar"/>
+        <file crc="2094030658" name="config/Modules/org-netbeans-modules-glassfish-eecommon.xml"/>
+        <file crc="1307030716" name="modules/org-netbeans-modules-glassfish-eecommon.jar"/>
     </module_version>
 </module>

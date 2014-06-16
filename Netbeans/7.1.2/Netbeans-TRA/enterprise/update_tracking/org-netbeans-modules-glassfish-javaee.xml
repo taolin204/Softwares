@@ -1,11 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.glassfish.javaee/0">
-    <module_version install_time="1323291293089" last="true" origin="installer" specification_version="1.12.1">
+    <module_version install_time="1323291293089" last="false" origin="installer" specification_version="1.12.1">
         <file crc="640143800" name="config/Modules/org-netbeans-modules-glassfish-javaee.xml"/>
         <file crc="3388731513" name="modules/locale/org-netbeans-modules-glassfish-javaee_ja.jar"/>
         <file crc="2661559863" name="modules/locale/org-netbeans-modules-glassfish-javaee_pt_BR.jar"/>
         <file crc="9293159" name="modules/locale/org-netbeans-modules-glassfish-javaee_ru.jar"/>
         <file crc="3122727018" name="modules/locale/org-netbeans-modules-glassfish-javaee_zh_CN.jar"/>
         <file crc="2428057777" name="modules/org-netbeans-modules-glassfish-javaee.jar"/>
+    </module_version>
+    <module_version install_time="1402900623728" last="true" origin="NetBeans Distribution" specification_version="1.12.3">
+        <file crc="3927497804" name="modules/locale/org-netbeans-modules-glassfish-javaee_ja.jar"/>
+        <file crc="138857153" name="modules/locale/org-netbeans-modules-glassfish-javaee_pt_BR.jar"/>
+        <file crc="676547535" name="modules/locale/org-netbeans-modules-glassfish-javaee_ru.jar"/>
+        <file crc="1393506608" name="modules/locale/org-netbeans-modules-glassfish-javaee_zh_CN.jar"/>
+        <file crc="640143800" name="config/Modules/org-netbeans-modules-glassfish-javaee.xml"/>
+        <file crc="134526050" name="modules/org-netbeans-modules-glassfish-javaee.jar"/>
     </module_version>
 </module>
