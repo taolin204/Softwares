@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.cnd.repository">
+    <module_version install_time="1311883981646" last="true" origin="installer" specification_version="1.14.1.1">
+        <file crc="4237735807" name="config/Modules/org-netbeans-modules-cnd-repository.xml"/>
+        <file crc="4002206474" name="modules/org-netbeans-modules-cnd-repository.jar"/>
+    </module_version>
+</module>

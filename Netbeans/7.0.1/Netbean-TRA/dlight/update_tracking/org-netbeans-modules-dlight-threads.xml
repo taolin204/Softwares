@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.dlight.threads">
+    <module_version install_time="1311883324447" last="true" origin="installer" specification_version="1.8.1.1.1">
+        <file crc="53179749" name="config/Modules/org-netbeans-modules-dlight-threads.xml"/>
+        <file crc="2063537075" name="modules/org-netbeans-modules-dlight-threads.jar"/>
+    </module_version>
+</module>

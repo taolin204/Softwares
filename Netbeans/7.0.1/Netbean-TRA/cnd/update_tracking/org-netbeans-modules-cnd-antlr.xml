@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.cnd.antlr">
+    <module_version install_time="1311882137854" last="true" origin="installer" specification_version="2.19.1.1">
+        <file crc="2331893297" name="config/Modules/org-netbeans-modules-cnd-antlr.xml"/>
+        <file crc="3420382690" name="modules/org-netbeans-modules-cnd-antlr.jar"/>
+    </module_version>
+</module>

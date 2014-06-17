@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.j2ee.sun.appsrv/1">
+    <module_version install_time="1311884393393" last="true" origin="installer" specification_version="1.18.1.1">
+        <file crc="3106505648" name="config/Modules/org-netbeans-modules-j2ee-sun-appsrv.xml"/>
+        <file crc="3250029786" name="modules/org-netbeans-modules-j2ee-sun-appsrv.jar"/>
+    </module_version>
+</module>

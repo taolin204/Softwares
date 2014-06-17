@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.dlight.core.stack">
+    <module_version install_time="1311883320674" last="true" origin="installer" specification_version="1.9.3.1.1">
+        <file crc="1970916825" name="config/Modules/org-netbeans-modules-dlight-core-stack.xml"/>
+        <file crc="1066803590" name="modules/org-netbeans-modules-dlight-core-stack.jar"/>
+    </module_version>
+</module>

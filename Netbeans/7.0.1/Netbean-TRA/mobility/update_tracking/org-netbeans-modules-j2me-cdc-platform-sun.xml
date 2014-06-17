@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.j2me.cdc.platform.sun">
+    <module_version install_time="1311883436368" last="true" origin="installer" specification_version="1.11.1">
+        <file crc="2765641094" name="config/Modules/org-netbeans-modules-j2me-cdc-platform-sun.xml"/>
+        <file crc="3371992462" name="modules/org-netbeans-modules-j2me-cdc-platform-sun.jar"/>
+    </module_version>
+</module>

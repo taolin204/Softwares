@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.web.jsf12/1">
+    <module_version install_time="1311882247293" last="true" origin="installer" specification_version="1.11.1.12">
+        <file crc="610427847" name="config/Modules/org-netbeans-modules-web-jsf12.xml"/>
+        <file crc="2180427472" name="modules/ext/jsf-1_2/LICENSE-APACHE.txt"/>
+        <file crc="1231780673" name="modules/ext/jsf-1_2/LICENSE.TXT"/>
+        <file crc="2059978483" name="modules/ext/jsf-1_2/THIRDPARTYLICENSEREADME.txt"/>
+        <file crc="3450414416" name="modules/ext/jsf-1_2/jsf-api.jar"/>
+        <file crc="3217311488" name="modules/org-netbeans-modules-web-jsf12.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.dlight.collector.procfs">
+    <module_version install_time="1311883317712" last="true" origin="installer" specification_version="1.8.1.1.1">
+        <file crc="301611931" name="config/Modules/org-netbeans-modules-dlight-collector-procfs.xml"/>
+        <file crc="2465607507" name="modules/org-netbeans-modules-dlight-collector-procfs.jar"/>
+    </module_version>
+</module>

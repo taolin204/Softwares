@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.j2me.cdc.project.ricoh">
+    <module_version install_time="1311883478217" last="true" origin="installer" specification_version="1.11.1">
+        <file crc="1303019795" name="config/Modules/org-netbeans-modules-j2me-cdc-project-ricoh.xml"/>
+        <file crc="862145333" name="modules/ext/RicohAntTasks-2.0.jar"/>
+        <file crc="2758999489" name="modules/ext/commons-codec-1.3.jar"/>
+        <file crc="3344476472" name="modules/ext/commons-httpclient-3.0.jar"/>
+        <file crc="2214050603" name="modules/ext/org-netbeans-modules-j2me-cdc-project-ricoh.jar"/>
+        <file crc="580647776" name="modules/org-netbeans-modules-j2me-cdc-project-ricoh.jar"/>
+    </module_version>
+</module>

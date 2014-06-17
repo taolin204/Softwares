@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.j2me.cdc.project.nokiaS80">
+    <module_version install_time="1311883473931" last="true" origin="installer" specification_version="1.11.1">
+        <file crc="2343291343" name="config/Modules/org-netbeans-modules-j2me-cdc-project-nokiaS80.xml"/>
+        <file crc="3801002563" name="modules/ext/org-netbeans-modules-j2me-cdc-project-nokiaS80.jar"/>
+        <file crc="2789018472" name="modules/org-netbeans-modules-j2me-cdc-project-nokiaS80.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.j2ee.eclipselink">
+    <module_version install_time="1311882166743" last="true" origin="installer" specification_version="1.8.1">
+        <file crc="2923080780" name="config/Modules/org-netbeans-modules-j2ee-eclipselink.xml"/>
+        <file crc="562611104" name="modules/ext/eclipselink/eclipselink-2.2.0.jar"/>
+        <file crc="4085426780" name="modules/ext/eclipselink/eclipselink-javax.persistence-2.0.jar"/>
+        <file crc="2268211064" name="modules/org-netbeans-modules-j2ee-eclipselink.jar"/>
+    </module_version>
+</module>

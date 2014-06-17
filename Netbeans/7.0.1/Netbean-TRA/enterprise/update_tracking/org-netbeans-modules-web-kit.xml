@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.web.kit">
+    <module_version install_time="1311884627465" last="true" origin="installer" specification_version="1.11.1">
+        <file crc="916376597" name="VERSION.txt"/>
+        <file crc="2921192417" name="config/Modules/org-netbeans-modules-web-kit.xml"/>
+        <file crc="3401745254" name="modules/org-netbeans-modules-web-kit.jar"/>
+    </module_version>
+</module>

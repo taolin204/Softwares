@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.cnd.simpleunit">
+    <module_version install_time="1311884194849" last="true" origin="installer" specification_version="1.5.2.1.1">
+        <file crc="2998604319" name="config/Modules/org-netbeans-modules-cnd-simpleunit.xml"/>
+        <file crc="2850541154" name="modules/org-netbeans-modules-cnd-simpleunit.jar"/>
+    </module_version>
+</module>

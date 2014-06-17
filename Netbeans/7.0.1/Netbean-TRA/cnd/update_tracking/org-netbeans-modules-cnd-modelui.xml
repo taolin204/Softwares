@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.cnd.modelui">
+    <module_version install_time="1311884019949" last="true" origin="installer" specification_version="1.15.1.1">
+        <file crc="4028763329" name="config/Modules/org-netbeans-modules-cnd-modelui.xml"/>
+        <file crc="1071658633" name="modules/org-netbeans-modules-cnd-modelui.jar"/>
+    </module_version>
+</module>

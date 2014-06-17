@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.web.struts/1">
+    <module_version install_time="1311884640699" last="true" origin="installer" specification_version="1.17.1.1">
+        <file crc="3526847380" name="config/Modules/org-netbeans-modules-web-struts.xml"/>
+        <file crc="3258590162" name="docs/struts-1.3.8-javadoc.zip"/>
+        <file crc="2744962428" name="modules/ext/struts/antlr-2.7.2.jar"/>
+        <file crc="3489673201" name="modules/ext/struts/bsf-2.3.0.jar"/>
+        <file crc="350195758" name="modules/ext/struts/commons-beanutils-1.7.0.jar"/>
+        <file crc="3839871283" name="modules/ext/struts/commons-chain-1.1.jar"/>
+        <file crc="2909170261" name="modules/ext/struts/commons-digester-1.8.jar"/>
+        <file crc="3418417452" name="modules/ext/struts/commons-fileupload-1.1.1.jar"/>
+        <file crc="884267942" name="modules/ext/struts/commons-io-1.1.jar"/>
+        <file crc="3420158953" name="modules/ext/struts/commons-logging-1.0.4.jar"/>
+        <file crc="3455280744" name="modules/ext/struts/commons-validator-1.3.1.jar"/>
+        <file crc="3684662967" name="modules/ext/struts/jstl-1.0.2.jar"/>
+        <file crc="1906826865" name="modules/ext/struts/oro-2.0.8.jar"/>
+        <file crc="1141103214" name="modules/ext/struts/standard-1.0.2.jar"/>
+        <file crc="1611821187" name="modules/ext/struts/struts-core-1.3.8.jar"/>
+        <file crc="2470286250" name="modules/ext/struts/struts-el-1.3.8.jar"/>
+        <file crc="3914882499" name="modules/ext/struts/struts-extras-1.3.8.jar"/>
+        <file crc="1713997980" name="modules/ext/struts/struts-faces-1.3.8.jar"/>
+        <file crc="4063080296" name="modules/ext/struts/struts-mailreader-dao-1.3.8.jar"/>
+        <file crc="305013378" name="modules/ext/struts/struts-scripting-1.3.8.jar"/>
+        <file crc="3022687536" name="modules/ext/struts/struts-taglib-1.3.8.jar"/>
+        <file crc="2291824897" name="modules/ext/struts/struts-tiles-1.3.8.jar"/>
+        <file crc="2693982738" name="modules/org-netbeans-modules-web-struts.jar"/>
+    </module_version>
+</module>

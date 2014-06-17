@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.image/1">
+    <module_version install_time="1311883121895" last="true" origin="installer" specification_version="1.31.1">
+        <file crc="3486416273" name="config/Modules/org-netbeans-modules-image.xml"/>
+        <file crc="952053755" name="modules/org-netbeans-modules-image.jar"/>
+    </module_version>
+</module>

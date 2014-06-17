@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.javacard.kit/1">
+    <module_version install_time="1311884564826" last="true" origin="installer" specification_version="1.6.1">
+        <file crc="3580499422" name="VERSION.txt"/>
+        <file crc="777133875" name="config/Modules/org-netbeans-modules-javacard-kit.xml"/>
+        <file crc="3705627349" name="modules/org-netbeans-modules-javacard-kit.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.cnd.makeproject/2">
+    <module_version install_time="1311884180353" last="true" origin="installer" specification_version="2.0.0.1">
+        <file crc="2423180349" name="config/Modules/org-netbeans-modules-cnd-makeproject.xml"/>
+        <file crc="4032645663" name="modules/org-netbeans-modules-cnd-makeproject.jar"/>
+    </module_version>
+</module>

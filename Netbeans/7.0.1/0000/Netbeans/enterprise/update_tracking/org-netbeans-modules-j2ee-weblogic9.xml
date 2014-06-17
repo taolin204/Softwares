@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.j2ee.weblogic9/1">
+    <module_version install_time="1311884338275" last="true" origin="installer" specification_version="1.20.1">
+        <file crc="366275912" name="config/Modules/org-netbeans-modules-j2ee-weblogic9.xml"/>
+        <file crc="334311147" name="modules/org-netbeans-modules-j2ee-weblogic9.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.mobility.deployment.nokia">
+    <module_version install_time="1311882720760" last="true" origin="installer" specification_version="1.11.1">
+        <file crc="902932193" name="config/Modules/org-netbeans-modules-mobility-deployment-nokia.xml"/>
+        <file crc="1786299521" name="modules/lib/ConnJNI.dll"/>
+        <file crc="2302337161" name="modules/org-netbeans-modules-mobility-deployment-nokia.jar"/>
+        <file crc="1778784854" name="modules/scr/deploy-nokia-impl.xml"/>
+    </module_version>
+</module>

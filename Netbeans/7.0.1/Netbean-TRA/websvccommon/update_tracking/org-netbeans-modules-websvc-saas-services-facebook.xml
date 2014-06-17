@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.websvc.saas.services.facebook">
+    <module_version install_time="1311882313238" last="true" origin="installer" specification_version="1.11.1">
+        <file crc="1637430653" name="config/Modules/org-netbeans-modules-websvc-saas-services-facebook.xml"/>
+        <file crc="60254431" name="modules/org-netbeans-modules-websvc-saas-services-facebook.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.java.hints.processor">
+    <module_version install_time="1311882557783" last="true" origin="installer" specification_version="1.7.1.1.15">
+        <file crc="1443179671" name="config/Modules/org-netbeans-modules-java-hints-processor.xml"/>
+        <file crc="1005986286" name="modules/org-netbeans-modules-java-hints-processor.jar"/>
+    </module_version>
+</module>

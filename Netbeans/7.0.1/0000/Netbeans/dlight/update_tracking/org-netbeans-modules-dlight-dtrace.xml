@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.dlight.dtrace">
+    <module_version install_time="1311883328447" last="true" origin="installer" specification_version="1.9.1.1.1">
+        <file crc="3524847414" name="bin/SunOS-sparc/dtracectrl"/>
+        <file crc="1164585620" name="bin/SunOS-x86/dtracectrl"/>
+        <file crc="449259776" name="config/Modules/org-netbeans-modules-dlight-dtrace.xml"/>
+        <file crc="2693381684" name="modules/org-netbeans-modules-dlight-dtrace.jar"/>
+    </module_version>
+</module>

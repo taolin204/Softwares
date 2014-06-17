@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.dlight.libs.common">
+    <module_version install_time="1311882639579" last="true" origin="installer" specification_version="1.9.1.1">
+        <file crc="58279454" name="config/Modules/org-netbeans-modules-dlight-libs-common.xml"/>
+        <file crc="4143267803" name="modules/org-netbeans-modules-dlight-libs-common.jar"/>
+    </module_version>
+</module>

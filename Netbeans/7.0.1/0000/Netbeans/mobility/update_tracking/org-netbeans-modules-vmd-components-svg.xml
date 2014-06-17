@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.vmd.components.svg/2">
+    <module_version install_time="1311882692633" last="true" origin="installer" specification_version="1.12.1">
+        <file crc="810678263" name="config/Modules/org-netbeans-modules-vmd-components-svg.xml"/>
+        <file crc="3052790640" name="modules/docs/nb_svg_midp_components-api.zip"/>
+        <file crc="3832987974" name="modules/ext/nb_svg_midp_components.jar"/>
+        <file crc="1745483697" name="modules/org-netbeans-modules-vmd-components-svg.jar"/>
+        <file crc="1725719891" name="sources/nb_svg_midp_components-src.zip"/>
+    </module_version>
+</module>

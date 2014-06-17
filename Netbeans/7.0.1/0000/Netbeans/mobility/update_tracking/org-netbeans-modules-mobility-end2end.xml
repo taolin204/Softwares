@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.mobility.end2end">
+    <module_version install_time="1311884369771" last="true" origin="installer" specification_version="1.12.1">
+        <file crc="3559759672" name="config/Modules/org-netbeans-modules-mobility-end2end.xml"/>
+        <file crc="1978026656" name="modules/org-netbeans-modules-mobility-end2end.jar"/>
+    </module_version>
+</module>

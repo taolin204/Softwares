@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.j2me.cdc.platform.sjmc">
+    <module_version install_time="1311883441334" last="true" origin="installer" specification_version="1.9.1">
+        <file crc="760551708" name="config/Modules/org-netbeans-modules-j2me-cdc-platform-sjmc.xml"/>
+        <file crc="120050161" name="modules/org-netbeans-modules-j2me-cdc-platform-sjmc.jar"/>
+    </module_version>
+</module>

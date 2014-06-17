@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.vmd.analyzer">
+    <module_version install_time="1311883695593" last="true" origin="installer" specification_version="1.11.1">
+        <file crc="2787986244" name="config/Modules/org-netbeans-modules-vmd-analyzer.xml"/>
+        <file crc="4098307881" name="modules/org-netbeans-modules-vmd-analyzer.jar"/>
+    </module_version>
+</module>

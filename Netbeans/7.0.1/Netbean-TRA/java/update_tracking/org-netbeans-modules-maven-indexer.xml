@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.maven.indexer/1">
+    <module_version install_time="1311882814217" last="true" origin="installer" specification_version="1.15.1">
+        <file crc="3741439804" name="config/Modules/org-netbeans-modules-maven-indexer.xml"/>
+        <file crc="3883496755" name="modules/ext/maven/indexer-artifact-4.1.0.jar"/>
+        <file crc="2584618695" name="modules/ext/maven/indexer-core-4.1.0.jar"/>
+        <file crc="413008208" name="modules/org-netbeans-modules-maven-indexer.jar"/>
+    </module_version>
+</module>

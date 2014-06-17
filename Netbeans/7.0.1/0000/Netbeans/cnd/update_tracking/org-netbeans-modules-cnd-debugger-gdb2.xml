@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.cnd.debugger.gdb2/1">
+    <module_version install_time="1311884217345" last="true" origin="installer" specification_version="1.2.2.1">
+        <file crc="3298497628" name="config/Modules/org-netbeans-modules-cnd-debugger-gdb2.xml"/>
+        <file crc="2287765789" name="modules/org-netbeans-modules-cnd-debugger-gdb2.jar"/>
+    </module_version>
+</module>

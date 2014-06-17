@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.mobility.databindingme/2">
+    <module_version install_time="1311882729878" last="true" origin="installer" specification_version="1.12.1">
+        <file crc="3826355315" name="config/Modules/org-netbeans-modules-mobility-databindingme.xml"/>
+        <file crc="1018815080" name="modules/docs/netbeans_databindingme-api.zip"/>
+        <file crc="3204595863" name="modules/docs/netbeans_databindingme_pim-api.zip"/>
+        <file crc="1038992047" name="modules/docs/netbeans_databindingme_svg-api.zip"/>
+        <file crc="3039435721" name="modules/ext/netbeans_databindingme.jar"/>
+        <file crc="4063001360" name="modules/ext/netbeans_databindingme_pim.jar"/>
+        <file crc="2260254022" name="modules/ext/netbeans_databindingme_svg.jar"/>
+        <file crc="3637386896" name="modules/org-netbeans-modules-mobility-databindingme.jar"/>
+        <file crc="1464321720" name="sources/netbeans_databindingme-src.zip"/>
+        <file crc="1236556536" name="sources/netbeans_databindingme_pim-src.zip"/>
+        <file crc="2914706025" name="sources/netbeans_databindingme_svg-src.zip"/>
+    </module_version>
+</module>

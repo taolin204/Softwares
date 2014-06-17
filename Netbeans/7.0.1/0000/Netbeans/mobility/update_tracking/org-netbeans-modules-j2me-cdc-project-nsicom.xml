@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.j2me.cdc.project.nsicom">
+    <module_version install_time="1311883485364" last="true" origin="installer" specification_version="2.11.1">
+        <file crc="13158891" name="ant/nblib/org-netbeans-modules-j2me-cdc-project-nsicom.jar"/>
+        <file crc="1552755849" name="config/Modules/org-netbeans-modules-j2me-cdc-project-nsicom.xml"/>
+        <file crc="2314431814" name="modules/org-netbeans-modules-j2me-cdc-project-nsicom.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.vmd.components.midp/2">
+    <module_version install_time="1311882722459" last="true" origin="installer" specification_version="1.12.1">
+        <file crc="4178011402" name="config/Modules/org-netbeans-modules-vmd-components-midp.xml"/>
+        <file crc="2446333588" name="modules/docs/netbeans_midp_components_basic-api.zip"/>
+        <file crc="3527136043" name="modules/ext/netbeans_midp_components_basic.jar"/>
+        <file crc="1246204565" name="modules/org-netbeans-modules-vmd-components-midp.jar"/>
+        <file crc="4018189833" name="sources/netbeans_midp_components_basic-src.zip"/>
+    </module_version>
+</module>

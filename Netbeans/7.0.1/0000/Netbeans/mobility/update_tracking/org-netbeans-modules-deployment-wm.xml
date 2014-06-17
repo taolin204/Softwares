@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.deployment.wm">
+    <module_version install_time="1311882778964" last="true" origin="installer" specification_version="1.14.1">
+        <file crc="1166117790" name="ant/nblib/org-netbeans-modules-deployment-wm.jar"/>
+        <file crc="1451014527" name="config/Modules/org-netbeans-modules-deployment-wm.xml"/>
+        <file crc="2285371483" name="modules/org-netbeans-modules-deployment-wm.jar"/>
+        <file crc="550367022" name="modules/scr/deploy-wm-impl.xml"/>
+    </module_version>
+</module>

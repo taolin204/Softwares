@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.dlight.memory">
+    <module_version install_time="1311883351017" last="true" origin="installer" specification_version="1.9.2.1">
+        <file crc="3836705028" name="config/Modules/org-netbeans-modules-dlight-memory.xml"/>
+        <file crc="1455654014" name="modules/org-netbeans-modules-dlight-memory.jar"/>
+    </module_version>
+</module>

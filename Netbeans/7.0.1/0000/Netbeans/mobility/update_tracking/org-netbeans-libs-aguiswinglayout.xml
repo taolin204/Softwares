@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.libs.aguiswinglayout">
+    <module_version install_time="1311881724632" last="true" origin="installer" specification_version="1.11.1">
+        <file crc="3136498775" name="config/Modules/org-netbeans-libs-aguiswinglayout.xml"/>
+        <file crc="3188575914" name="modules/ext/cdc-agui-swing-layout.jar"/>
+        <file crc="15520169" name="modules/org-netbeans-libs-aguiswinglayout.jar"/>
+        <file crc="4235333885" name="sources/cdc-agui-swing-layout-src.zip"/>
+    </module_version>
+</module>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.css.visual/1">
+    <module_version install_time="1311884081646" last="true" origin="installer" specification_version="2.17.1">
+        <file crc="841146648" name="config/Modules/org-netbeans-modules-css-visual.xml"/>
+        <file crc="4090475925" name="modules/ext/flute-1.3.jar"/>
+        <file crc="1884236195" name="modules/ext/sac-1.3.jar"/>
+        <file crc="3860088778" name="modules/org-netbeans-modules-css-visual.jar"/>
+    </module_version>
+</module>

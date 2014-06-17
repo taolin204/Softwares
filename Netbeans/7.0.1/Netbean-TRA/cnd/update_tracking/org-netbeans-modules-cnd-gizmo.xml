@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.cnd.gizmo">
+    <module_version install_time="1311884201578" last="true" origin="installer" specification_version="1.10.2.1">
+        <file crc="2302999494" name="config/Modules/org-netbeans-modules-cnd-gizmo.xml"/>
+        <file crc="629168787" name="modules/org-netbeans-modules-cnd-gizmo.jar"/>
+    </module_version>
+</module>

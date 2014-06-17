@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.apisupport.crudsample">
+    <module_version install_time="1311882958138" last="true" origin="installer" specification_version="1.6.1">
+        <file crc="3036815226" name="config/Modules/org-netbeans-modules-apisupport-crudsample.xml"/>
+        <file crc="2640491643" name="modules/org-netbeans-modules-apisupport-crudsample.jar"/>
+    </module_version>
+</module>

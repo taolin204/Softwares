@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.cnd.refactoring/1">
+    <module_version install_time="1311884027994" last="true" origin="installer" specification_version="1.12.1.1">
+        <file crc="545263660" name="config/Modules/org-netbeans-modules-cnd-refactoring.xml"/>
+        <file crc="1312567552" name="modules/org-netbeans-modules-cnd-refactoring.jar"/>
+    </module_version>
+</module>

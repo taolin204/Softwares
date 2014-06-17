@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.mobility.project">
+    <module_version install_time="1311883464512" last="true" origin="installer" specification_version="1.15.1">
+        <file crc="2952207389" name="ant/nblib/org-netbeans-modules-mobility-project.jar"/>
+        <file crc="933243280" name="config/Modules/org-netbeans-modules-mobility-project.xml"/>
+        <file crc="1010406311" name="modules/org-netbeans-modules-mobility-project.jar"/>
+        <file crc="2986200973" name="modules/scr/deploy-copy-impl.xml"/>
+    </module_version>
+</module>

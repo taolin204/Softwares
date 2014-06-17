@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.profiler.j2ee.sunas/1">
+    <module_version install_time="1311884622194" last="true" origin="installer" specification_version="1.15.1">
+        <file crc="3779979246" name="config/Modules/org-netbeans-modules-profiler-j2ee-sunas.xml"/>
+        <file crc="1811857142" name="modules/org-netbeans-modules-profiler-j2ee-sunas.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.cnd.modeldiscovery">
+    <module_version install_time="1311884210912" last="true" origin="installer" specification_version="1.14.2.1">
+        <file crc="3499137734" name="config/Modules/org-netbeans-modules-cnd-modeldiscovery.xml"/>
+        <file crc="587990135" name="modules/org-netbeans-modules-cnd-modeldiscovery.jar"/>
+    </module_version>
+</module>

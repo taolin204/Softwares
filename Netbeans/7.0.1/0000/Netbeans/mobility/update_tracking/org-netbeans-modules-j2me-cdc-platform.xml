@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.j2me.cdc.platform">
+    <module_version install_time="1311883433793" last="true" origin="installer" specification_version="1.12.1">
+        <file crc="2668318934" name="config/Modules/org-netbeans-modules-j2me-cdc-platform.xml"/>
+        <file crc="3083133493" name="modules/org-netbeans-modules-j2me-cdc-platform.jar"/>
+    </module_version>
+</module>

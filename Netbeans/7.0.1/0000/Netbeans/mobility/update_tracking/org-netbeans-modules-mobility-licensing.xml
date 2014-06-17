@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.mobility.licensing">
+    <module_version install_time="1311882689352" last="true" origin="installer" specification_version="1.11.1">
+        <file crc="2521151584" name="config/Modules/org-netbeans-modules-mobility-licensing.xml"/>
+        <file crc="2997055866" name="modules/org-netbeans-modules-mobility-licensing.jar"/>
+    </module_version>
+</module>

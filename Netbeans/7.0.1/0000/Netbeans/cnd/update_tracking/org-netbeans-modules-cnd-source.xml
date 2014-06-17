@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.cnd.source">
+    <module_version install_time="1311883966000" last="true" origin="installer" specification_version="1.5.1.1">
+        <file crc="2384432187" name="config/Modules/org-netbeans-modules-cnd-source.xml"/>
+        <file crc="2673555110" name="modules/org-netbeans-modules-cnd-source.jar"/>
+    </module_version>
+</module>

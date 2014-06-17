@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.j2me.cdc.project.execui">
+    <module_version install_time="1311882479432" last="true" origin="installer" specification_version="1.9.1">
+        <file crc="794101019" name="config/Modules/org-netbeans-modules-j2me-cdc-project-execui.xml"/>
+        <file crc="385394336" name="modules/org-netbeans-modules-j2me-cdc-project-execui.jar"/>
+    </module_version>
+</module>

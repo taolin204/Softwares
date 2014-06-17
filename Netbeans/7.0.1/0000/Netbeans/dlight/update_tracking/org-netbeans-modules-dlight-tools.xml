@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.dlight.tools">
+    <module_version install_time="1311883348654" last="true" origin="installer" specification_version="1.9.1.1">
+        <file crc="2182814819" name="config/Modules/org-netbeans-modules-dlight-tools.xml"/>
+        <file crc="1029055996" name="modules/org-netbeans-modules-dlight-tools.jar"/>
+        <file crc="2435855070" name="tools/Linux-x86/bin/prof_agent.so"/>
+        <file crc="1975737303" name="tools/Linux-x86/bin/prof_monitor"/>
+        <file crc="2753234149" name="tools/Linux-x86_64/bin/prof_agent.so"/>
+        <file crc="4251070182" name="tools/Linux-x86_64/bin/prof_monitor"/>
+        <file crc="452491738" name="tools/MacOSX-x86/bin/prof_agent.dylib"/>
+        <file crc="2520457022" name="tools/MacOSX-x86/bin/prof_monitor"/>
+    </module_version>
+</module>

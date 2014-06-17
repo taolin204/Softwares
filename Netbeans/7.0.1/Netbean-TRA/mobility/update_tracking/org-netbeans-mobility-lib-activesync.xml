@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.mobility.lib.activesync/1">
+    <module_version install_time="1311882717849" last="true" origin="installer" specification_version="1.11.1">
+        <file crc="3584897777" name="config/Modules/org-netbeans-mobility-lib-activesync.xml"/>
+        <file crc="1106436095" name="modules/ext/nbactivesync-5.0.jar"/>
+        <file crc="2022617534" name="modules/lib/nbactivesync.dll"/>
+        <file crc="2825891427" name="modules/org-netbeans-mobility-lib-activesync.jar"/>
+    </module_version>
+</module>

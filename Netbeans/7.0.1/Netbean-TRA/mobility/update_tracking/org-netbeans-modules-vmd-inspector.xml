@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.vmd.inspector">
+    <module_version install_time="1311883689935" last="true" origin="installer" specification_version="1.11.1">
+        <file crc="448359178" name="config/Modules/org-netbeans-modules-vmd-inspector.xml"/>
+        <file crc="537802238" name="modules/org-netbeans-modules-vmd-inspector.jar"/>
+    </module_version>
+</module>

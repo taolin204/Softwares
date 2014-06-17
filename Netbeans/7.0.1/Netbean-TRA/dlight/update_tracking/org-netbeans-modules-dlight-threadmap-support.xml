@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.dlight.threadmap.support">
+    <module_version install_time="1311883335984" last="true" origin="installer" specification_version="1.8.1.1">
+        <file crc="2433394957" name="config/Modules/org-netbeans-modules-dlight-threadmap-support.xml"/>
+        <file crc="949137810" name="modules/org-netbeans-modules-dlight-threadmap-support.jar"/>
+    </module_version>
+</module>

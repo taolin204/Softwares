@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.dlight.toolsui">
+    <module_version install_time="1311883299431" last="true" origin="installer" specification_version="1.8.1.1.1">
+        <file crc="2293351820" name="config/Modules/org-netbeans-modules-dlight-toolsui.xml"/>
+        <file crc="2244775224" name="modules/org-netbeans-modules-dlight-toolsui.jar"/>
+    </module_version>
+</module>

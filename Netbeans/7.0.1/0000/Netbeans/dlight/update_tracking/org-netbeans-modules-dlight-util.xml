@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.dlight.util">
+    <module_version install_time="1311883293088" last="true" origin="installer" specification_version="1.9.1.1">
+        <file crc="2067087315" name="config/Modules/org-netbeans-modules-dlight-util.xml"/>
+        <file crc="1143781847" name="modules/org-netbeans-modules-dlight-util.jar"/>
+    </module_version>
+</module>

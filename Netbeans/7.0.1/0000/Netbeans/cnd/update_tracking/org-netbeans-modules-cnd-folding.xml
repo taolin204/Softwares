@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.cnd.folding">
+    <module_version install_time="1311884000029" last="true" origin="installer" specification_version="1.13.2.1">
+        <file crc="2257929676" name="config/Modules/org-netbeans-modules-cnd-folding.xml"/>
+        <file crc="130503100" name="modules/org-netbeans-modules-cnd-folding.jar"/>
+    </module_version>
+</module>

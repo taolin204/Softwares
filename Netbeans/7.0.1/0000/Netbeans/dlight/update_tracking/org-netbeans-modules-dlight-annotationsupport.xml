@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.dlight.annotationsupport">
+    <module_version install_time="1311883331023" last="true" origin="installer" specification_version="1.9.1.1.1">
+        <file crc="460181601" name="config/Modules/org-netbeans-modules-dlight-annotationsupport.xml"/>
+        <file crc="3781108199" name="modules/org-netbeans-modules-dlight-annotationsupport.jar"/>
+    </module_version>
+</module>

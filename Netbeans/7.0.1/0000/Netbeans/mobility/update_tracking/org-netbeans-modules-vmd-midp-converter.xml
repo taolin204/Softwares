@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.vmd.midp.converter">
+    <module_version install_time="1311883840885" last="true" origin="installer" specification_version="1.12.1">
+        <file crc="2571855473" name="config/Modules/org-netbeans-modules-vmd-midp-converter.xml"/>
+        <file crc="459491648" name="modules/org-netbeans-modules-vmd-midp-converter.jar"/>
+    </module_version>
+</module>

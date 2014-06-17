@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.profiler.selector.spi/1">
+    <module_version install_time="1311882545756" last="true" origin="installer" specification_version="1.15.1">
+        <file crc="1735078569" name="config/Modules/org-netbeans-modules-profiler-selector-spi.xml"/>
+        <file crc="3492618988" name="modules/org-netbeans-modules-profiler-selector-spi.jar"/>
+    </module_version>
+</module>

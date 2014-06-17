@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.tasklist.ui/1">
+    <module_version install_time="1311883214416" last="true" origin="installer" specification_version="1.14.1.1">
+        <file crc="2796626611" name="config/Modules/org-netbeans-modules-tasklist-ui.xml"/>
+        <file crc="2561634745" name="modules/org-netbeans-modules-tasklist-ui.jar"/>
+    </module_version>
+</module>

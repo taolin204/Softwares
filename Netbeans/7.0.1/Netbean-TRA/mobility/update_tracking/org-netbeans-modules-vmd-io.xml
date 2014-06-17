@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.vmd.io">
+    <module_version install_time="1311883672633" last="true" origin="installer" specification_version="1.12.1">
+        <file crc="1487817505" name="config/Modules/org-netbeans-modules-vmd-io.xml"/>
+        <file crc="4219475984" name="modules/org-netbeans-modules-vmd-io.jar"/>
+    </module_version>
+</module>

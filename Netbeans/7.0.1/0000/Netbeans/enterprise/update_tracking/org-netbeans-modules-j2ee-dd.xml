@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.j2ee.dd/1">
+    <module_version install_time="1311883626775" last="true" origin="installer" specification_version="1.21.1.2">
+        <file crc="2619511562" name="config/Modules/org-netbeans-modules-j2ee-dd.xml"/>
+        <file crc="2215658210" name="modules/org-netbeans-modules-j2ee-dd.jar"/>
+    </module_version>
+</module>

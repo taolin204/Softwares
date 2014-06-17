@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.groovy.grailsproject">
+    <module_version install_time="1311884546126" last="true" origin="installer" specification_version="1.26.1">
+        <file crc="3445837219" name="config/Modules/org-netbeans-modules-groovy-grailsproject.xml"/>
+        <file crc="3553200430" name="modules/org-netbeans-modules-groovy-grailsproject.jar"/>
+    </module_version>
+</module>

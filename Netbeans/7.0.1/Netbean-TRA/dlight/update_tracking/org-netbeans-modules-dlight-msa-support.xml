@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.dlight.msa.support">
+    <module_version install_time="1311883301441" last="true" origin="installer" specification_version="1.8.1.1">
+        <file crc="1116179901" name="config/Modules/org-netbeans-modules-dlight-msa-support.xml"/>
+        <file crc="3490794611" name="modules/org-netbeans-modules-dlight-msa-support.jar"/>
+    </module_version>
+</module>

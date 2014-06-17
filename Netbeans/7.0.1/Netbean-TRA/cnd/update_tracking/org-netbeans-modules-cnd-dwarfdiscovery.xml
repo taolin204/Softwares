@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.cnd.dwarfdiscovery">
+    <module_version install_time="1311884208248" last="true" origin="installer" specification_version="1.14.2.1">
+        <file crc="4150589541" name="config/Modules/org-netbeans-modules-cnd-dwarfdiscovery.xml"/>
+        <file crc="415458688" name="modules/org-netbeans-modules-cnd-dwarfdiscovery.jar"/>
+    </module_version>
+</module>

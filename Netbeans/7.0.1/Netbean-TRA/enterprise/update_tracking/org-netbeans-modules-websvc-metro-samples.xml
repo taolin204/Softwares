@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.websvc.metro.samples/1">
+    <module_version install_time="1311884487706" last="true" origin="installer" specification_version="1.12.1">
+        <file crc="3926217289" name="config/Modules/org-netbeans-modules-websvc-metro-samples.xml"/>
+        <file crc="2831437678" name="modules/org-netbeans-modules-websvc-metro-samples.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.maven.samples/1">
+    <module_version install_time="1311884710474" last="true" origin="installer" specification_version="1.9.1">
+        <file crc="41773931" name="config/Modules/org-netbeans-modules-maven-samples.xml"/>
+        <file crc="491671959" name="modules/org-netbeans-modules-maven-samples.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.j2me.cdc.platform.ricoh">
+    <module_version install_time="1311883445937" last="true" origin="installer" specification_version="1.11.1">
+        <file crc="1293650051" name="config/Modules/org-netbeans-modules-j2me-cdc-platform-ricoh.xml"/>
+        <file crc="2201949003" name="modules/org-netbeans-modules-j2me-cdc-platform-ricoh.jar"/>
+    </module_version>
+</module>

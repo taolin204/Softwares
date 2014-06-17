@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.maven.embedder/2">
+    <module_version install_time="1311882571903" last="true" origin="installer" specification_version="2.9.1">
+        <file crc="2918674022" name="config/Modules/org-netbeans-modules-maven-embedder.xml"/>
+        <file crc="1231013273" name="maven/LICENSE.txt"/>
+        <file crc="3737551280" name="maven/NOTICE.txt"/>
+        <file crc="2560703704" name="maven/README.txt"/>
+        <file crc="41305430" name="maven/bin/m2.conf"/>
+        <file crc="1182703012" name="maven/bin/mvn"/>
+        <file crc="936992972" name="maven/bin/mvn.bat"/>
+        <file crc="2712228789" name="maven/bin/mvnDebug"/>
+        <file crc="394535277" name="maven/bin/mvnDebug.bat"/>
+        <file crc="3599742294" name="maven/bin/mvnyjp"/>
+        <file crc="435711878" name="maven/boot/plexus-classworlds-2.4.jar"/>
+        <file crc="3989159731" name="maven/conf/settings.xml"/>
+        <file crc="2994461329" name="maven/lib/aether-api-1.11.jar"/>
+        <file crc="1908877567" name="maven/lib/aether-connector-wagon-1.11.jar"/>
+        <file crc="2438833507" name="maven/lib/aether-impl-1.11.jar"/>
+        <file crc="1099335032" name="maven/lib/aether-spi-1.11.jar"/>
+        <file crc="3683338278" name="maven/lib/aether-util-1.11.jar"/>
+        <file crc="919992673" name="maven/lib/commons-cli-1.2.jar"/>
+        <file crc="2262156954" name="maven/lib/ext/README.txt"/>
+        <file crc="179902107" name="maven/lib/maven-aether-provider-3.0.3.jar"/>
+        <file crc="4216143997" name="maven/lib/maven-artifact-3.0.3.jar"/>
+        <file crc="559771333" name="maven/lib/maven-compat-3.0.3.jar"/>
+        <file crc="644103896" name="maven/lib/maven-core-3.0.3.jar"/>
+        <file crc="4275497080" name="maven/lib/maven-embedder-3.0.3.jar"/>
+        <file crc="2922860068" name="maven/lib/maven-model-3.0.3.jar"/>
+        <file crc="3817258634" name="maven/lib/maven-model-builder-3.0.3.jar"/>
+        <file crc="4208474051" name="maven/lib/maven-plugin-api-3.0.3.jar"/>
+        <file crc="3019388912" name="maven/lib/maven-repository-metadata-3.0.3.jar"/>
+        <file crc="1245350669" name="maven/lib/maven-settings-3.0.3.jar"/>
+        <file crc="1849910924" name="maven/lib/maven-settings-builder-3.0.3.jar"/>
+        <file crc="356697637" name="maven/lib/nekohtml-1.9.6.2.jar"/>
+        <file crc="3170029256" name="maven/lib/plexus-cipher-1.4.jar"/>
+        <file crc="301321604" name="maven/lib/plexus-component-annotations-1.5.5.jar"/>
+        <file crc="1519806171" name="maven/lib/plexus-interpolation-1.14.jar"/>
+        <file crc="1450402278" name="maven/lib/plexus-sec-dispatcher-1.3.jar"/>
+        <file crc="3119404096" name="maven/lib/plexus-utils-2.0.6.jar"/>
+        <file crc="2741563706" name="maven/lib/sisu-guice-2.9.4-no_aop.jar"/>
+        <file crc="2501594362" name="maven/lib/sisu-inject-bean-2.1.1.jar"/>
+        <file crc="3048983477" name="maven/lib/sisu-inject-plexus-2.1.1.jar"/>
+        <file crc="1591221931" name="maven/lib/wagon-file-1.0-beta-7.jar"/>
+        <file crc="4235558761" name="maven/lib/wagon-http-lightweight-1.0-beta-7.jar"/>
+        <file crc="1624174605" name="maven/lib/wagon-http-shared-1.0-beta-7.jar"/>
+        <file crc="695827882" name="maven/lib/wagon-provider-api-1.0-beta-7.jar"/>
+        <file crc="256898450" name="maven/lib/xercesMinimal-1.9.6.2.jar"/>
+        <file crc="908734765" name="modules/ext/maven/fallback_pom.xml"/>
+        <file crc="3727094234" name="modules/ext/maven/jdom-1.0.jar"/>
+        <file crc="3301859668" name="modules/ext/maven/maven-dependency-tree-1.2.jar"/>
+        <file crc="2480507728" name="modules/ext/maven/rootpackage/default-report.xml"/>
+        <file crc="2664614225" name="modules/ext/maven/settings.xml"/>
+        <file crc="1519680599" name="modules/org-netbeans-modules-maven-embedder.jar"/>
+    </module_version>
+</module>

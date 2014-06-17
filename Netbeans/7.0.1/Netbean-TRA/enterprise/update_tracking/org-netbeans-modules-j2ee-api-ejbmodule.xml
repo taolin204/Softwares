@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.j2ee.api.ejbmodule">
+    <module_version install_time="1311883637427" last="true" origin="installer" specification_version="1.21.1">
+        <file crc="3228885098" name="config/Modules/org-netbeans-modules-j2ee-api-ejbmodule.xml"/>
+        <file crc="3070873694" name="modules/org-netbeans-modules-j2ee-api-ejbmodule.jar"/>
+    </module_version>
+</module>

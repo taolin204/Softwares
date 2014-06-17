@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.websvc.restlib/0">
+    <module_version install_time="1311882349061" last="true" origin="installer" specification_version="1.11.1">
+        <file crc="557896012" name="config/Modules/org-netbeans-modules-websvc-restlib.xml"/>
+        <file crc="1147924266" name="docs/jersey-client-1.3-javadoc.zip"/>
+        <file crc="795415816" name="docs/jersey-core-1.1.5.1-javadoc.zip"/>
+        <file crc="2716266681" name="docs/jersey-json-1.3-javadoc.zip"/>
+        <file crc="2468849101" name="docs/jersey-multipart-1.3-javadoc.zip"/>
+        <file crc="114469775" name="docs/jersey-spring-1.3-javadoc.zip"/>
+        <file crc="193599813" name="docs/jsr311-api-1.1.1-javadoc.zip"/>
+        <file crc="344616753" name="docs/oauth-client-1.3-javadoc.zip"/>
+        <file crc="506200244" name="docs/oauth-signature-1.3-javadoc.zip"/>
+        <file crc="3558753978" name="modules/ext/rest/asm-3.1.jar"/>
+        <file crc="674290392" name="modules/ext/rest/jackson-core-asl-1.1.1.jar"/>
+        <file crc="1372873136" name="modules/ext/rest/jersey-client-1.3.jar"/>
+        <file crc="3076528384" name="modules/ext/rest/jersey-core-1.3.jar"/>
+        <file crc="1076735014" name="modules/ext/rest/jersey-json-1.3.jar"/>
+        <file crc="1120287705" name="modules/ext/rest/jersey-multipart-1.3.jar"/>
+        <file crc="3729084672" name="modules/ext/rest/jersey-server-1.3.jar"/>
+        <file crc="3696824451" name="modules/ext/rest/jersey-spring-1.3.jar"/>
+        <file crc="3902866820" name="modules/ext/rest/jettison-1.1.jar"/>
+        <file crc="1796310173" name="modules/ext/rest/jsr311-api-1.1.1.jar"/>
+        <file crc="613945769" name="modules/ext/rest/mimepull-1.4.jar"/>
+        <file crc="2595181924" name="modules/ext/rest/oauth-client-1.3.jar"/>
+        <file crc="2800303071" name="modules/ext/rest/oauth-signature-1.3.jar"/>
+        <file crc="1462715282" name="modules/org-netbeans-modules-websvc-restlib.jar"/>
+    </module_version>
+</module>

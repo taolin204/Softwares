@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.profiler.j2ee.weblogic/1">
+    <module_version install_time="1311884589237" last="true" origin="installer" specification_version="1.15.1">
+        <file crc="3066261783" name="config/Modules/org-netbeans-modules-profiler-j2ee-weblogic.xml"/>
+        <file crc="3972928895" name="modules/org-netbeans-modules-profiler-j2ee-weblogic.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.servletjspapi/1">
+    <module_version install_time="1311882233925" last="true" origin="installer" specification_version="1.12.1.25">
+        <file crc="852551831" name="config/Modules/org-netbeans-modules-servletjspapi.xml"/>
+        <file crc="1217244528" name="modules/ext/servlet3.0-jsp2.2-api.jar"/>
+        <file crc="2810579122" name="modules/org-netbeans-modules-servletjspapi.jar"/>
+    </module_version>
+</module>

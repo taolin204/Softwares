@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.cnd.cncppunit">
+    <module_version install_time="1311884213299" last="true" origin="installer" specification_version="1.5.2.1.1">
+        <file crc="2662159385" name="config/Modules/org-netbeans-modules-cnd-cncppunit.xml"/>
+        <file crc="1304571810" name="modules/org-netbeans-modules-cnd-cncppunit.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.web.jsf20/1">
+    <module_version install_time="1311882260721" last="true" origin="installer" specification_version="1.8.1.1">
+        <file crc="723648827" name="config/Modules/org-netbeans-modules-web-jsf20.xml"/>
+        <file crc="2180427472" name="modules/ext/jsf-2_1/LICENSE-APACHE.txt"/>
+        <file crc="1231780673" name="modules/ext/jsf-2_1/LICENSE.TXT"/>
+        <file crc="2059978483" name="modules/ext/jsf-2_1/THIRDPARTYLICENSEREADME.txt"/>
+        <file crc="3672609146" name="modules/ext/jsf-2_1/jsf-api.jar"/>
+        <file crc="3257217934" name="modules/ext/jsf-2_1/jsf-impl.jar"/>
+        <file crc="3613072483" name="modules/org-netbeans-modules-web-jsf20.jar"/>
+    </module_version>
+</module>
